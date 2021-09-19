@@ -49,9 +49,9 @@ Listed and credited in his guide are all significant current and past contributo
 ## Inject and export your modified PS4 save
 1. Insert Diablo 3 disc into Console B and launch the game
 2. Progress past the title screen and calibrate gamma, close the game
-3. Connect PS4 Save Mounter, input Console B LAN IP, press Connect, press Patch, press Get Users, press Get Games, select CUSA00242 from dropdown, press Search, press Mount
-4. Open FTP client on PC, connect to Console B LAN IP (default port is `2121`), navigate to `/mnt/pfs/savedata_xxxxxxxx_CUSA00242_autosave`
-5. Copy your already-modded `heroes` folder, `account.dat`, `profile.dat`, and `prefs.dat` files to this directory
+3. Launch PS4 Save Mounter, input Console B LAN IP, press Connect, press Patch, press Get Users, press Get Games, select Diablo from dropdown (probably `CUSA00242` for USA RoS disc), press Search, press Mount
+4. Open FTP client on PC, connect to Console B LAN IP (the GoldHEN default FTP port is `2121`), navigate to `/mnt/pfs/savedata_xxxxxxxx_CUSAxxxx_autosave`
+5. Transfer your already-modded `heroes` folder, `account.dat`, `profile.dat`, and `prefs.dat` files to this directory
 6. Press Unmount in PS4 Save Mounter
 7. Plug USB drive into Console B, and copy Diablo save from `System Storage` to `USB Storage Device`
 - [ ] The full details of the rest of the steps will be posted SOON<sup>TM</sup>
