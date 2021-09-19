@@ -7,9 +7,9 @@
 
 This guide aims to provide concise, accurate instructions to use publicly available homebrew and PC tools to bring edited saves into season 24 and beyond on PS4.
 
-Weeks after I first jumped on the leaderboards with fully modified gear and ethereal weapons (Aug 11th 2021), a group of people cropped up claiming to have been doing this for years; allegedly sneaking "legit" gear and stat mods into seasons after Save Wizard removed Advanced Mode support for the game. Pretending that they are/were protecting the integrity of seasonal play.
+Weeks after I first jumped on the leaderboards with fully modified gear and ethereal weapons (Aug 11th 2021), a group of people cropped up claiming to have been doing this for years; allegedly sneaking "legit" gear and stat mods into seasons after Save Wizard removed Advanced Mode support for the game... pretending that they were protecting the integrity of seasonal play.
 
-This is called "closet cheating" - skipping the work of grinding the season while pretending you worked for it - and it's something I am firmly against. Go big or go home!
+***This is called "closet cheating"*** - skipping the work of grinding the season while pretending you worked for it - and it's something I am firmly against. Go big or go home!
 
 In this guide I will show you step-by-step what I did and which tools and information I used.
 
@@ -19,18 +19,19 @@ In this guide I will show you step-by-step what I did and which tools and inform
 * **Email:** [jester.psn@xbl.ninja](mailto:jester.psn@xbl.ninja)
   
 ### Special Thanks
-* Thank you **EckoTc** for sharing his experience and resources with me a few days after I picked up the game and pieced everything together. Cheers for reaching out and collaborating with me and the many other modders you've helped!
-* Thank you **Tonic-Box** for compiling the most complete set of resources and guides that I stumbled upon when first looking into this stuff
-  * I religiously read his excellent [D3ROS Modding Guide](https://github.com/Tonic-Box/D3ROS-Modding-Guide), and I suggest you do the same
-  * Specifically his [full list of editor tricks](https://github.com/Tonic-Box/D3ROS-Modding-Guide/tree/main/EditorTricks) without any fluff
+* Thank you to **EckoTc** for sharing your experience and resources with me a few days after I picked up the game and pieced everything together. Cheers for reaching out and collaborating with me and the many other modders you've helped!
+* Thank you to **goobycorp aka Visual Studio** for creating D3Edit, STL/GAM parsing tools, CPK extraction, and much more. You've been the homie for many years and I will always appreciate the knowledge you share 
+* Thank you to **Tonic-Box** for compiling the most complete set of resources and guides that I stumbled upon when first looking into this stuff
+  * I religiously read his excellent [D3ROS Modding Guide](https://github.com/Tonic-Box/D3ROS-Modding-Guide), and I suggest you do the same. Specifically his [full list of editor tricks](https://github.com/Tonic-Box/D3ROS-Modding-Guide/tree/main/EditorTricks) without any fluff
 
-Listed and credited in his guide are all significant current and past contributors to the D3 modding community, so I will not repeat them all here. Visit his guide and read it over thoroughly if you are not already familiar with save editing and the related concepts.
+Listed and credited in his guide are all significant current and past contributors to the D3 modding community, so I will not repeat them all here. Visit his guide and read it over thoroughly, especially if you are not already familiar with save editing and the related concepts.
 
 ## Required Hardware
-1. "Console A" - Unmodified PS4/PS5 fully updated and able to play Diablo 3 online
-2. Disc copy of Diablo 3 for PS4. This is for Console B, you may use a digital copy for online Console A
-3. USB drive (exFAT/FAT32) for copying saves to and from your PC, Console A, and Console B
-4. "Console B" - Modifiable PS4 console ready to launch payloads
+1. Working PC to run the required tools
+2. "Console A" - Unmodified PS4/PS5 fully updated and able to play Diablo 3 online
+3. Disc copy of Diablo 3 for PS4. This is for Console B, you may use a digital copy for Console A
+4. USB drive (exFAT/FAT32) for copying saves between your PC, Console A, and Console B
+5. "Console B" - Modifiable PS4 console ready to launch payloads
 * The most convenient way to launch payloads on Console B is to visit public exploit hosts through the PS4 web browser on a vulnerable firmware: 
   * [hippie68](https://hippie68.github.io/): The cleanest and most professional public host (in my opinion)
   * [Night King](https://night-king-host.github.io/): The most comprehensive and very frequently updated. Has the ctn123 updated PS4Debug (not necessary, but very good)
