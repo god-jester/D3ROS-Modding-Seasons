@@ -33,14 +33,13 @@ Listed and credited in his guide are all significant current and past contributo
 4. USB drive (ideally exFAT formatted) for copying saves between your PC, Console A, and Console B
 5. "Console B" - modifiable PS4 console ready to launch payloads
 * The most convenient way to launch payloads on Console B is to visit public exploit hosts through the PS4 web browser on a vulnerable firmware: 
-  * [hippie68](https://hippie68.github.io/): The cleanest and most professional public host (in my opinion)
+  * [hippie68](https://hippie68.github.io/): The cleanest and most professional public host (in my opinion). Supports multiple payloads at once
   * [Night King](https://night-king-host.github.io/): Very comprehensive and very frequently updated. Has the ctn123-updated PS4Debug (not necessary, but very good)
   * [Al-Azif](https://cthugha.exploit.menu/): The most well-known host that has accompanying DNS servers to auto-redirect your browser. Extremely comprehensive and even includes Switch and WiiU exploits!
 
 ## Required Software
 - [x] [D3 Studio - A save editor for Diablo 3 RoS/Eternal](https://github.com/Tonic-Box/D3Studio/releases/latest)
 - [x] [PS4 Save Mounter by ChendoChap, updated by Joonie86 and ctn123](https://github.com/ctn123/Binary-Releases/releases/latest)
-- [ ] ~~__*Spooky homebrew that will be shared later*__~~
 - [x] PC FTP client: I love both [FileZilla](https://filezilla-project.org/download.php?show_all=1) and [WinSCP](https://winscp.net/eng/download.php)
 - [x] Both of the following payloads running on Console B:
   * Persistent FTP: I use and love **GoldHEN v1.1 by SiSTR0**, but other persistent FTP servers will work fine
@@ -54,7 +53,7 @@ Listed and credited in his guide are all significant current and past contributo
 5. Transfer your already-modded `heroes` folder, `account.dat`, `profile.dat`, and `prefs.dat` files to this directory
 6. Press Unmount in PS4 Save Mounter
 7. Plug USB drive into Console B, and copy Diablo save from `System Storage` to `USB Storage Device`
-- [ ] The full details of the rest of the steps will be posted SOON<sup>TM</sup>
+* The full details of the rest of the steps will be posted SOON<sup>TM</sup>
   
 
 <sub>I will be finishing this guide in the coming days</sub>
