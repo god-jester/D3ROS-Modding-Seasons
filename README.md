@@ -99,6 +99,10 @@ Listed and credited in his guide are all significant current and past contributo
 5. Press Unmount in PS4 Save Mounter
 9. Plug USB drive into **Console B**, and copy your modded Diablo save from **System Storage** to **USB Storage Device**
 
+<hr>
+
+### And that's it! These are the steps I used in early August when I did all of this myself for the first time.
+### Happy Modding!
 
 [//]: # (account_raw https://user-images.githubusercontent.com/90997402/134083334-cb60c1dd-04c0-4a19-96c7-9f5d5da7f552.png)
 [//]: # (heroes_general https://user-images.githubusercontent.com/90997402/134083356-75063f32-0f8e-4baf-be5e-0ab1dcca930a.png)
