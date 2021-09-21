@@ -1972,10 +1972,10 @@
 2025240201	=	Demon Hunter - Doomslinger_16: +1000 Dexterity, +15% Life, Reduces Cooldown of all skills by 10.0%, Chance to Deal 24% Area Damage on Hit	=	_Ethereal Weapon Affixes - Demon Hunter
 2025240202	=	Demon Hunter - Doomslinger_17: +100% Damage to all Demon Hunter skills, Ignores Durability Loss, Killing an Elite Pack increases movement speed by 30% for 7 Seconds	=	_Ethereal Weapon Affixes - Demon Hunter
 2065136008	=	Monk - Bartuc's Cut Throat_08: +100% Damage, +10.0% Critical Hit Chance	=	_Ethereal Weapon Affixes - Monk
-2065136039	=	Monk - Bartuc's Cut Throat2  =  +1125 Strength, +1125 Dexterity, +23,936 Life per Hit	=	_Ethereal Weapon Affixes - Monk
-2065136040	=	Monk - Bartuc's Cut Throat3  =  +100% Damage to all Monk skills, Ignores Durability Loss, Consecutive hits to Enemies increases Damage by 10% up to 100%	=	_Ethereal Weapon Affixes - Monk
-1698886160	=	Monk - Shadow Killer1  =  +100% Damage, +23,936 Life per Hit, Reduces Cooldown of all skills by 10.0%	=	_Ethereal Weapon Affixes - Monk
-1698886191	=	Monk - Shadow Killer2  =  +1000 Dexterity, Grants 7 Spirit per Critical Hit, 5.1% Chance to Freeze on Hit, Reduces all Resource costs by 10.0%	=	_Ethereal Weapon Affixes - Monk
+2065136039	=	Monk - Bartuc's Cut Throat_16:  +1125 Strength, +1125 Dexterity, +23,936 Life per Hit	=	_Ethereal Weapon Affixes - Monk
+2065136040	=	Monk - Bartuc's Cut Throat_17:  +100% Damage to all Monk skills, Ignores Durability Loss, Consecutive hits to Enemies increases Damage by 10% up to 100%	=	_Ethereal Weapon Affixes - Monk
+1698886160	=	Monk - Shadow Killer_08  =  +100% Damage, +23,936 Life per Hit, Reduces Cooldown of all skills by 10.0%	=	_Ethereal Weapon Affixes - Monk
+1698886191	=	Monk - Shadow Killer_16:  +1000 Dexterity, Grants 7 Spirit per Critical Hit, 5.1% Chance to Freeze on Hit, Reduces all Resource costs by 10.0%	=	_Ethereal Weapon Affixes - Monk
 1698886192	=	Monk - Shadow Killer_17: +100% Damage to all Monk skills, Ignores Durability Loss, Reduces the Damage of enemies hit by 25% for 5 seconds	=	_Ethereal Weapon Affixes - Monk
 -1832400583	=	Monk - Jade Talon_08: +100% Damage, Reduces Cooldown of all skills by 10.0%	=	_Ethereal Weapon Affixes - Monk
 -1832400552	=	Monk - Jade Talon_16: +1000 Dexterity, +130 Resist all Elements, +23,936 Life per Hit, Grants 7 Spirit per Critical Hit	=	_Ethereal Weapon Affixes - Monk
@@ -2110,3 +2110,5 @@
 1153344648	=	Staff of Chiroptera  -  Firebats attacks 100% faster, costs 75% less Mana, and has its damage increased by 150%	=	_Ethereal Power Affixes -  Witch Doctor
 -329832502	=	Vile Hive  -  Locust Swarm gains the effect of the Pestilence rune and deals 60% damage	=	_Ethereal Power Affixes -  Witch Doctor
 2122832275	=	Spite  -  Non-cleaving Gargantuans gain the cleave and chilling effects of the Humongoid rune	=	_Ethereal Power Affixes -  Witch Doctor
+-450461008	=	12-14 Mana per Second (Witch Doctor Only)	=	X-X Mana per Second (Witch Doctor Only)
+1184986309	=	120-150 Maximum Mana (Witch Doctor Only)	=	X-X Maximum Mana (Witch Doctor Only)
