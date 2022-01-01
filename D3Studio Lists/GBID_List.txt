@@ -788,7 +788,7 @@
 414491869	=	Legendary: Archmage's Vicalyke WIZARD	=	Wizard Hats	=	Console	=	~Your Mirror Images have a chance to multiply when killed by enemies.(Wizard Only)
 413641572	=	Shadowclone Daibo (Hell)	=	Developer Weapons	=	Console	=	~Blackout
 412214125	=	Plan: Harvest Moon	=	Blacksmith Plan	=	Console	=	
-412198131	=	Amulet PvP (Patch 2.5.0)	=	Developer Armor	=	Console	=	~Sockets 1
+412198131	=	Amulet PvP (Patch 2.5.0)	=	Developer Armor	=	Console	=	+8000 Strength/Dexterity/Intelligence$+5000 Vitality$+25% Movement Speed$Socket (1)
 412126100	=	Blackthorne's Medal(Set: Blackthorne's Regalia)	=	Amulets	=	Console	=	The Duncraig Cross is awarded to those nobles who lead their knights to victory in defense of the realm.
 412126069	=	Spirit of Adventure(Set: Endless Journey)	=	Amulets	=	Console	=	66-75% Better Chance of Finding Magical Items
 412126068	=	Tal Rasha's Adjudication(Set: Tal Rasha's Wrappings)	=	Amulets	=	Console	=	+176-210 Lightning Resistance
@@ -982,7 +982,6 @@
 290066502	=	Base (Tier 02) Carver	=	"Mighty Weapons, One-Handed"	=	Console	=	DPS: 14.3-16.3#DMG: (8-9)-(14-16)#APS: 1.3
 290066501	=	Base (Tier 01) Sickle	=	"Mighty Weapons, One-Handed"	=	Console	=	DPS: 11.1-12.4#DMG: (6-7)-(11-12)#APS: 1.3
 28868489	=	Journal of Covetous Shen	=	Lore	=	Console	=	
-285814732	=	Lost Civilization (Dunno)	=	2.6.10	=	Console	=	
 28430311	=	Pennant: Witch Doctor Ascendant (Patch 2.4.0)	=	Pennants	=	Console	=	~No Description
 28429688	=	Pennant: Demon Hunter Ascendant (Patch 2.4.0)	=	Pennants	=	Console	=	~No Description
 280425627	=	Rydraelm Tome	=	Crafting Components	=	Console	=	~No Description
@@ -1200,7 +1199,7 @@
 2087837753	=	Death's Breath	=	Crafting Components	=	Console	=	~No Description
 2086071858	=	Axe 2H PvP 70 (Patch 2.5.0)	=	Developer Weapons	=	Console	=	~No Description
 2086071759	=	Axe 2H PvP 40 (Patch 2.5.0)	=	Developer Weapons	=	Console	=	~No Description
-2086071660	=	Axe 2H PvP 10 (Patch 2.5.0)	=	Developer Weapons	=	Console	=	~Top tier quality
+2086071660	=	Axe 2H PvP 10 (Patch 2.5.0) [#1]	=	Developer Weapons	=	Console	=	~Top tier quality
 208454467	=	Wings: Pieces of Hatred (Patch 2.2.0)	=	Wings	=	Console	=	~Visual Item - Black/Dark Green
 208405024	=	Wings: Eldritch Embrace (Patch 2.2.0)	=	Wings	=	Console	=	~Visual Item- Black/Dark Blue
 2082289199	=	Testing: Echo Band Vitality	=	Rings	=	Console	=	~80 Vitality#~35 to All Attributes
@@ -2309,7 +2308,7 @@
 1350219606	=	"Legendary: Thunderfury, Blessed Blade of the Windseeker"	=	"Swords, One-Handed"	=	Console	=	"~Chance on hit to blast your enemy with Lightning, dealing 279-372% weapon damage as Lightning and then jumping to additional nearby enemies. Each enemy hit has their attack speed and movement speed reduced by 30% for 3 seconds. Jumps up to 5 targets."
 1349166159	=	Art_Test_Fist_5	=	Testing: Art	=	Console	=	
 1349166158	=	Testing: Art Test Fist 4	=	Testing: Art	=	Console	=	~Orange Glowing Blade
-1349166157	=	Testing: Art Test Fist 3	=	Testing: Art	=	Console	=	~Pink Fist
+1349166157	=	Testing: Art Test Fist 3 MONK	=	Testing: Art	=	Console	=	~Pink Fist
 1349166156	=	Testing: Art Test Fist 2	=	Testing: Art	=	Console	=	~Rabbit Claw
 1349166155	=	Testing: Art Test Fist 1	=	Testing: Art	=	Console	=	~Double Blade
 1348228990	=	Legendary: Mantle (Patch 2.3.0)	=	Cloaks	=	Console	=	~No Description
@@ -2384,6 +2383,7 @@
 1285509784	=	Hallowed Scepter(Set: Hallowed Defenders)	=	Wands	=	Console	=	An angelic artifact re-forged to suit the needs of a hero wielding the powers of the nephalem.
 1285507340	=	Hallowed Scepter(Set: Hallowed Defenders)	=	Wands	=	Console	=	An angelic artifact re-forged to suit the needs of a hero wielding the powers of the nephalem.
 1284610787	=	Legendary: Iron Rose (Patch 2.6.0) NECROMANCER	=	Phylacteries	=	Console	=	#(Patch 2.6.0)#~6-10 Damage#~Attacking with Siphon Blood has a (40-50)% chance to cast a free Blood Nova. (Necromancer Only)#
+65231608	=	Legendary: Iron Rose (Patch 2.6.0) #2 NECROMANCER	=	Phylacteries	=	Console	=	#(Patch 2.6.0)#~6-10 Damage#~Attacking with Siphon Blood has a (40-50)% chance to cast a free Blood Nova. (Necromancer Only)#
 1284610786	=	Legendary: Leger's Disdain (Patch 2.6.0) NECROMANCER	=	Phylacteries	=	Console	=	#(Patch 2.6.0)#~10-14 Damage#~Grim Scythe deals an additional (7-10)% damage for each point of essence it restores. (Necromancer Only)#
 1284610785	=	Legendary: Bone Ringer (Patch 2.6.0) NECROMANCER	=	Phylacteries	=	Console	=	#(Patch 2.6.0)#~99-149 Damage#~The damage bonus of Command Skeletons increases by (25-30)% per second they spend attacking the same target. (Necromancer Only)#
 1284610784	=	Legendary: Lost Time (Patch 2.6.0) NECROMANCER	=	Phylacteries	=	Console	=	"#(Patch 2.6.0)#~4-6 Damage#~Your cold skills reduce the movement speed of enemies by 30%. In addition, your movement speed is increased by (4-5)% for 5 seconds. Maximum 5 stacks. (Necromancer Only)#"
@@ -3906,6 +3906,7 @@
 -361443669	=	The Ninth Cirri Satchel (Patch 2.6.9)	=	Quivers	=	Console	=	Hungering Arrow always pierces and deals +450-600% additional damage.
 -361443669	=	Legendary: The Ninth Cirri Satchel DEMON HUNTER	=	Quivers	=	Console	=	~15-20% Attack Speed.#~Hungering Arrow has 20-25% additional chance to pierce. (Demon Hunter Only)
 -361407732	=	Legendary: Bombadier's Rucksack DEMON HUNTER	=	Quivers	=	Console	=	~15-20% Attack Speed#~You may have 2 additional Sentries.(Demon Hunter Only)
+580947964	=	Legendary: Bombadier's Rucksack #2 DEMON HUNTER	=	Quivers	=	Console	=	~15-20% Attack Speed#~You may have 2 additional Sentries.(Demon Hunter Only)
 -361371795	=	Legendary: Emimei's Duffel	=	Quivers	=	Console	=	~15-20% Attack Speed#~Bolas now explode instantly.
 -361371795	=	Emimei's Duffel (Patch 2.6.9)	=	Quivers	=	Console	=	Bolas now explode instantly and deal +150-175% more damage.
 -361335858	=	Legendary: Hunter's Longbox	=	Quivers	=	Console	=	~15-20% Attack Speed.
@@ -5250,12 +5251,12 @@
 -1183138285	=	Art_Test_Wings_16	=	Testing: Art	=	Console	=	
 -1183138284	=	Art_Test_Wings_17	=	Testing: Art	=	Console	=	
 -1183138283	=	Art_Test_Wings_18	=	Testing: Art	=	Console	=	
--1183138282	=	Art_Test_Wings_19	=	Testing: Art	=	Console	=	
--1183138258	=	Art_Test_Wings_20	=	Testing: Art	=	Console	=	
--1183138257	=	Art_Test_Wings_21	=	Testing: Art	=	Console	=	
--1183138256	=	Art_Test_Wings_22	=	Testing: Art	=	Console	=	
+-1183138282	=	Art_Test_Wings_19 Shiny Black Butterfly	=	Testing: Art	=	Console	=	
+-1183138258	=	Art_Test_Wings_20 Black/Yellow Butterfly	=	Testing: Art	=	Console	=	
+-1183138257	=	Art_Test_Wings_21 White/Orange Butterly	=	Testing: Art	=	Console	=	
+-1183138256	=	Art_Test_Wings_22 Wings of Mastery	=	Testing: Art	=	Console	=	
 -1183138255	=	Art_Test_Wings_23	=	Testing: Art	=	Console	=	
--1183138254	=	Art_Test_Wings_24	=	Testing: Art	=	Console	=	
+-1183138254	=	Art_Test_Wings_24 Lilith's Embrace	=	Testing: Art	=	Console	=	
 -118254879	=	Base (Tier 00) Crusader Shield	=	Crusader Shields	=	Console	=	CTB: 10.0-20.0%#BA: 7-12#AR: 9-10
 -118254878	=	Base (Tier 01) Crusader Shield	=	Crusader Shields	=	Console	=	CTB: 10.0-20.0%#BA: 7-12#AR: 9-10
 -118254877	=	Base (Tier 02) Sacred Scutum	=	Crusader Shields	=	Console	=	CTB: 10.0-20.0%#BA: 13-18#AR: 54-62
@@ -5416,7 +5417,7 @@
 -1045126260	=	Legendary: Taeguk (Patch 2.1.0)	=	Legendary Gems	=	Console	=	~Gain 2% Increased damage for 1.5 seconds when you spend resource on a channeled skill.This effect stacks up to 10 times.#~Gain 2% increased Armor for every stack. (Requires Rank 25)#
 -1045090323	=	Legendary: Esoteric Alteration (Patch 2.1.2)	=	Legendary Gems	=	Console	=	"~Gain 10% non-Physical Damage reduction#~While below half Life, your resistances to Cold, Fire, Lightning, Poison, and Arcane are Increased by 75%.(Requires Rank 25)"
 -1045054386	=	Legendary: Molten Wildebeest's Gizzard (Patch 2.1.2)	=	Legendary Gems	=	Console	=	"~Regenerates 10000 Life per Second.#~After not taking Damage for 4 seconds, gain an absorb shield for 200% of your total Life per Second. (Requires Rank 25)"""
--1045018449	=	Legendary: Bane of the Striken (Patch 2.1.2)	=	Legendary Gems	=	Console	=	~Each attack you make against an enemy increases the damage it takes from your attacks by .80%#~Gain 25% increased damage against bosses and Rift Guardians.(Requires Rank 25)#
+-1045018449	=	Legendary: Bane of the Stricken (Patch 2.1.2)	=	Legendary Gems	=	Console	=	~Each attack you make against an enemy increases the damage it takes from your attacks by .80%$~Gain 25% increased damage against bosses and Rift Guardians.(Requires Rank 25)$
 -1044982512	=	Legendary: Mutilation Guard (Patch 2.1.2)	=	Legendary Gems	=	Console	=	"~Gain 10% melee damage reduction.#~While below 50% Life, you may move unhindered through enemies. (Requires Rank 25)#"""
 -1044120024	=	Legendary: Shen's Delight (Patch 2.1.2)	=	Legendary Gems	=	Console	=	"~(Patch 2.4.0)#~Adds 16,000 Thorns.#~Taunt the first enemy hit by your Primary skills for 2 seconds. (Requires Rank 25)##"""
 -1044084087	=	Legendary: Gem Iceblink(Patch 2.1.2)	=	Legendary Gems	=	Console	=	~Iceblink#(Patch 2.4.3)~Your Cold skills now apply Chill effects and your Chill effects now Slow enemy movement by an additional 5%#~Enemies you Chill have a 10% increased chance to be Critically Hit. (requires rank 25)#
@@ -5493,7 +5494,7 @@
 -1028348776	=	Legendary: Faithful Memory CRUSADER	=	"Swords, Two-Handed"	=	Console	=	~Each enemy hit by falling sword increases the damage of Blessed Hammer by 74% for 10 seconds. Max 10 stacks. (Crusader Only)
 -1028276902	=	Base (Tier 21) Splintered Oar	=	"Swords, Two-Handed"	=	Console	=	~No Description
 -1027737429	=	Sword Hilt	=	NPC Items	=	Console	=	~No Description
--1027113854	=	Staff 2H PvP 10 (Patch 2.5.0)	=	Developer Weapons	=	Console	=	~No Description
+-1027113854	=	Staff 2H PvP 10 [jester's #1]	=	Developer Weapons	=	Console	=	~Top tier quality
 -1027113755	=	Staff 2H PvP 40 (Patch 2.5.0)	=	Developer Weapons	=	Console	=	~No Description
 -1027113656	=	Staff 2H PvP 70 (Patch 2.5.0)	=	Developer Weapons	=	Console	=	~No Description
 -1026738420	=	Legendary: Golden Flense (Patch 2.2.0) CRUSADER	=	"Flails, Two-Handed"	=	Console	=	~Sweep Attack restores 4-6 Wrath for each enemy hit. (Crusader Only)#(Patch 2.4.3)#~Sweep Attack restores 3-4 Wrath for each enemy hit. (Crusader Only)#(Patch 2.6.1)#~Sweep Attack restores 3-4 Wrath for each enemy hit and its damage increased by 200%. (Crusader Only)
@@ -5580,8 +5581,8 @@
 -1164887226	=	Asteron's Iron Ward (Mace) CRUSADER	=	 _Ethereal S24 (2.7.1) Weapons	=	Console	=	Caduceus (76089)$Mace$Primary:$Increases Attack Speed by 12-15%$+75-100% Damage$Critical Hit Chance Increased by 7.0-10.0%$Critical Hit Damage Increased by 51.0-100.0%$Reduces cooldown of all skills by 7.0-10.0%.$+825-1000 Strength$+(517-621)-(687-876) Holy Damage$Ignores Durability Loss
 -1164887231	=	The Grandfather (Two-Handed Sword) BARBARIAN	=	 _Ethereal S24 (2.7.1) Weapons	=	Console	=	Colossus Blade (76089)$Two-Handed Sword$Primary:$+75-100% Damage$Critical Hit Chance Increased by 7.0-10.0%$+1 to Maximum damage per Paragon Level up to 800$+(83-100)-(83-100) Damage$+10-15% Life$Reduces cooldown of all skills by 7.0-10.0%.$+750-1000 All Stats$Increases Attack Speed by 15-20%$Ignores Durability Loss
 -1164887227	=	Bartuc's Cut-Throat (Fist Weapon) MONK	=	 _Ethereal S24 (2.7.1) Weapons	=	Console	=	Greater Talons (76089)$Fist Weapon$Primary:$+75-100% Damage$Critical Hit Chance Increased by 7.0-10.0%$+(675-812)-(675-812) Damage$+20271-23950 Life per Hit$+946-1125 Strength$+946-1125 Dexterity$Critical Hit Chance Increased by 100.0%$Ignores Durability Loss
--1089393548	=	Legendary: Bindings of the Lesser Gods (Patch 2.7.1) MONK	=	Bracers	=	Console	=	(Patch 2.4.0)$~Enemies hit by your Cyclone Strike take 150-200% more damage from your Mystic Ally for 5 seconds. (Monk Only)$(Patch 2.5.0)$~Enemies hit by your Cyclone Strike take 150-200% increased damage from your Mystic Ally for 5 seconds. (Monk Only)$(Patch 2.7.1)$~Enemies hit by your Cyclone Strike take 300-400% increased damage from your Mystic Ally for 5 seconds. Split Fire Allies gain 5 times this bonus. (Monk Only)$
-1891778372	=	Legendary: The Crudest Boots (Patch 2.7.1) MONK	=	Boots	=	Console	=	~Mystic Ally summons two Mystic Allies that fight by your side. They deal 300-400% increased damage and are able to attack with their active forms longer. (Monk Only)
+-1089393548	=	Legendary: Bindings of the Lesser Gods (Patch2.7.1 (S24)) MONK	=	Bracers	=	Console	=	(Patch 2.4.0)$~Enemies hit by your Cyclone Strike take 150-200% more damage from your Mystic Ally for 5 seconds. (Monk Only)$(Patch 2.5.0)$~Enemies hit by your Cyclone Strike take 150-200% increased damage from your Mystic Ally for 5 seconds. (Monk Only)$(Patch2.7.1 (S24))$~Enemies hit by your Cyclone Strike take 300-400% increased damage from your Mystic Ally for 5 seconds. Split Fire Allies gain 5 times this bonus. (Monk Only)$
+1891778372	=	Legendary: The Crudest Boots (Patch2.7.1 (S24)) MONK	=	Boots	=	Console	=	~Mystic Ally summons two Mystic Allies that fight by your side. They deal 300-400% increased damage and are able to attack with their active forms longer. (Monk Only)
 -2118577519	=	Bartuc's Cut-Throat (Fist Weapon)	=	 _Ethereal Cosmetic Weapons	=	Console	=	Fist Weapon (76089)
 -2118577484	=	Blackbog's Sharp (Sword)	=	 _Ethereal Cosmetic Weapons	=	Console	=	Sword (76089)
 -1164887192	=	Blackbog's Sharp (Sword) NECROMANCER	=	 _Ethereal S24 (2.7.1) Weapons	=	Console	=	Cinquedeas (76089)$Sword$Primary:$Increases Attack Speed by 12-15%$Reduces cooldown of all skills by 7.0-10.0%.$+825-1000 Intelligence$+(1368-1620)-(1368-1620) Poison Damage$Poison skills deal 15-20% more damage.$1.0-2.6% Chance to Slow on Hit$+0-170-255 Poison Damage$Ignores Durability Loss$Consecutive hits to enemies increases damage by 10%, up to 100%
@@ -5627,11 +5628,27 @@
 -1164887196	=	The Redeemer (Mace) CRUSADER	=	 _Ethereal S24 (2.7.1) Weapons	=	Console	=	Mighty Scepter (76089)$Mace$Primary:$+75-100% Damage$+25-50% Damage to Demons$+(675-812)-(675-812) Damage$Holy skills deal 15-20% more damage.$Increases Gold and Health Pickup by 1-2 Yards.$+825-1000 Strength$Level Requirement Reduced by 30-40$Reduces cooldown of all skills by 7.0-10.0%.$Ignores Durability Loss$Consecutive hits to enemies increases attack speed by 3%, up to 30% for 3 seconds
 -1164887230	=	Windforce (Bow) DEMON HUNTER	=	 _Ethereal S24 (2.7.1) Weapons	=	Console	=	Hydra Bow (76089)$Bow$Primary:$+75-100% Damage$+946-1125 Strength$+946-1125 Dexterity$+(594-715)-(594-715) Damage
 -1164887191	=	Wizardspike (Dagger) WIZARD	=	 _Ethereal S24 (2.7.1) Weapons	=	Console	=	Bone Knife (76089)$Dagger$Primary:$Increases Attack Speed by 12-15%$+825-1000 Intelligence$+(1318-1560)-(1318-1560) Damage$+110-130 Resistance to All Elements$+13-14 Maximum Arcane Power$Increases Arcane Power Regeneration by 1.85-2.00 per Second$Reduces cooldown of all skills by 7.0-10.0%.$Ignores Durability Loss
-745680225	=	Legendary: The Ninth Cirri Satchel	=	 2.7.1	=	Console	=	+20% Attack Speed$Hungering Arrow is guaranteed to pierce and also deals 600% increased damage. Hungering Arrow can only pierce up to 4 times
-745680227	=	Legendary: Emimei's Duffel	=	 2.7.1	=	Console	=	+20% Attack Speed$Bolas now explode instantly and deal 175% increased damage
--845425086	=	Wojahnni Assaulter Crossbows	=	 2.7.1	=	Console	=	
-1656121303	=	Stone Gauntlets Gloves	=	 2.7.1	=	Console	=	
-1762168860	=	Sin Seekers Quivers	=	 2.7.1	=	Console	=	
-2067782575	=	Legendary: Bonds of C'Lena	=	 2.7.1	=	Console	=	Army of the Dead and Bone Spirit deal 300-400% increased damage. Bone Spirit deals an additional 2% increased damage for 5 seconds each time Army of the Dead hits an enemy. WITCH DOCTOR
--1440023077	=	Legendary: Defiler Cuisses	=	 2.7.1	=	Console	=	Your Bone Spirit's damage is increased by 400-500% for every second it is active and will also freeze enemies on impact. WITCH DOCTOR
+745680225	=	Legendary: The Ninth Cirri Satchel	=	2.7.1 (S24)	=	Console	=	+20% Attack Speed$Hungering Arrow is guaranteed to pierce and also deals 600% increased damage. Hungering Arrow can only pierce up to 4 times
+745680227	=	Legendary: Emimei's Duffel	=	2.7.1 (S24)	=	Console	=	+20% Attack Speed$Bolas now explode instantly and deal 175% increased damage
+-845425086	=	Wojahnni Assaulter Crossbows	=	2.7.1 (S24)	=	Console	=	
+1656121303	=	Stone Gauntlets Gloves	=	2.7.1 (S24)	=	Console	=	
+1762168860	=	Sin Seekers Quivers	=	2.7.1 (S24)	=	Console	=	
+2067782575	=	Legendary: Bonds of C'Lena	=	2.7.1 (S24)	=	Console	=	Army of the Dead and Bone Spirit deal 300-400% increased damage. Bone Spirit deals an additional 2% increased damage for 5 seconds each time Army of the Dead hits an enemy. WITCH DOCTOR
+-1440023077	=	Legendary: Defiler Cuisses	=	2.7.1 (S24)	=	Console	=	Your Bone Spirit's damage is increased by 400-500% for every second it is active and will also freeze enemies on impact. WITCH DOCTOR
 535933551	=	_High Gem Tier	=	_X	=	Console	=	
+-2111882633	=	Hellforge Ember	=	 _2.7.2 (S25)	=	Console	=	Consumable
+-152322198	=	The Spider Queen's Grasp	=	 _2.7.2 (S25)	=	Console	=	Ceremonial Dagger
+1854459626	=	Remorseless	=	 _2.7.2 (S25)	=	Console	=	Mighty 1H
+1877709487	=	Lakumba's Ornament	=	 _2.7.2 (S25)	=	Console	=	Unique Bracer
+-922445371	=	Shukrani's Triumph	=	 _2.7.2 (S25)	=	Console	=	Unique Mojo
+-1791691349	=	Brood of Araneae	=	 _2.7.2 (S25)	=	Console	=	Unique Belt
+-751140483	=	Soul Shard (Helm): Sliver of Terror	=	 _2.7.2 (S25)	=	Console	=	Your cooldowns are increased by 25%. For every skill on cooldown, you take 12.5% reduced damage and deal 12.5% increased damage.
+-751140482	=	Soul Shard (Helm): Shard of Hatred	=	 _2.7.2 (S25)	=	Console	=	You deal 15% reduced damage while you have 3 or fewer enemies within 25 yards. If more than 3 enemies are within the same distance, you deal 5% increased damage per enemy (to a maximum of 50%).
+-751140481	=	Soul Shard (Helm): Fragment of Destruction	=	 _2.7.2 (S25)	=	Console	=	You move unhindered through enemies. Each enemy you pass through receives the Mark of Destruction for 7 seconds. Each marked enemy that dies removes 1 second from one of your skills on cooldown. If the Mark of Destruction expires before the enemy dies, you lose 2% of your maximum health as damage. Marks are not applied if you are below 35% health.
+-751140480	=	Soul Shard (Weap): Stain of Sin	=	 _2.7.2 (S25)	=	Console	=	You deal 25% less damage. When you kill 50 enemies, you spawn a pool of blood that increases the damage done to Elite enemies by 150% and lasts 15 seconds.
+-751140479	=	Soul Shard (Weap): Essence of Anguish	=	 _2.7.2 (S25)	=	Console	=	Every time you deal Poison damage to an enemy you increase your Cooldown Reduction and Movement Speed by 2.5% while your damage received is increased by 5% for 10 seconds. Max 10 stacks.
+-751140478	=	Soul Shard (Weap): Dregs of Lies	=	 _2.7.2 (S25)	=	Console	=	You deal 25% less damage. Your pets deal 25% increased damage.
+-751140477	=	Soul Shard (Weap): Remnant of Pain	=	 _2.7.2 (S25)	=	Console	=	Your Critical Hit Chance is reduced by 15%. Attacks against Incapacitated enemies are automatically critical hits.
+-361407732	=	Bombardier's Rucksack	=	 _2.7.2 (S25)	=	Console	=	Unique Quiver
+-290477093	=	The Dark Lordling	=	 _2.7.2 (S25)	=	Console	=	New Diablo Pet
+747144274	=	The Pane of Tristram	=	 _2.7.2 (S25)	=	Console	=	New Diablo Frame

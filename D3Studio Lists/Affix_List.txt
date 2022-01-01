@@ -1610,277 +1610,277 @@
 1955636700	=	Blood for Blood	=	_S24  Necro Passives
 704400558	=	Blood is Power	=	_S24  Necro Passives
 -2142143394	=	Rathmas Shield	=	_S24  Necro Passives
-1732042982	=	Grandfather_01	=	_Unlabeled S24 Affixes - Grandfather
-1732042983	=	Grandfather_02	=	_Unlabeled S24 Affixes - Grandfather
-1732042984	=	Grandfather_03	=	_Unlabeled S24 Affixes - Grandfather
-1732042985	=	Grandfather_04	=	_Unlabeled S24 Affixes - Grandfather
-1732042986	=	Grandfather_05	=	_Unlabeled S24 Affixes - Grandfather
-1732042987	=	Grandfather_06	=	_Unlabeled S24 Affixes - Grandfather
-1732042988	=	Grandfather_07	=	_Unlabeled S24 Affixes - Grandfather
-1732042990	=	Grandfather_09	=	_Unlabeled S24 Affixes - Grandfather
-1732043014	=	Grandfather_10	=	_Unlabeled S24 Affixes - Grandfather
-1732043015	=	Grandfather_11	=	_Unlabeled S24 Affixes - Grandfather
-1732043016	=	Grandfather_12	=	_Unlabeled S24 Affixes - Grandfather
-1732043017	=	Grandfather_13	=	_Unlabeled S24 Affixes - Grandfather
-1732043018	=	Grandfather_14	=	_Unlabeled S24 Affixes - Grandfather
-1732043019	=	Grandfather_15	=	_Unlabeled S24 Affixes - Grandfather
-847429161	=	Grimmershred_01	=	_Unlabeled S24 Affixes - Grimmershred
-847429162	=	Grimmershred_02	=	_Unlabeled S24 Affixes - Grimmershred
-847429163	=	Grimmershred_03	=	_Unlabeled S24 Affixes - Grimmershred
-847429164	=	Grimmershred_04	=	_Unlabeled S24 Affixes - Grimmershred
-847429165	=	Grimmershred_05	=	_Unlabeled S24 Affixes - Grimmershred
-847429166	=	Grimmershred_06	=	_Unlabeled S24 Affixes - Grimmershred
-847429167	=	Grimmershred_07	=	_Unlabeled S24 Affixes - Grimmershred
-847429169	=	Grimmershred_09	=	_Unlabeled S24 Affixes - Grimmershred
-847429193	=	Grimmershred_10	=	_Unlabeled S24 Affixes - Grimmershred
-847429194	=	Grimmershred_11	=	_Unlabeled S24 Affixes - Grimmershred
-847429195	=	Grimmershred_12	=	_Unlabeled S24 Affixes - Grimmershred
-847429196	=	Grimmershred_13	=	_Unlabeled S24 Affixes - Grimmershred
-847429197	=	Grimmershred_14	=	_Unlabeled S24 Affixes - Grimmershred
-847429198	=	Grimmershred_15	=	_Unlabeled S24 Affixes - Grimmershred
--286410440	=	Doombringer_01	=	_Unlabeled S24 Affixes - Doombringer
--286410439	=	Doombringer_02	=	_Unlabeled S24 Affixes - Doombringer
--286410438	=	Doombringer_03	=	_Unlabeled S24 Affixes - Doombringer
--286410437	=	Doombringer_04	=	_Unlabeled S24 Affixes - Doombringer
--286410436	=	Doombringer_05	=	_Unlabeled S24 Affixes - Doombringer
--286410435	=	Doombringer_06	=	_Unlabeled S24 Affixes - Doombringer
--286410434	=	Doombringer_07	=	_Unlabeled S24 Affixes - Doombringer
--286410432	=	Doombringer_09	=	_Unlabeled S24 Affixes - Doombringer
--286410408	=	Doombringer_10	=	_Unlabeled S24 Affixes - Doombringer
--286410407	=	Doombringer_11	=	_Unlabeled S24 Affixes - Doombringer
--286410406	=	Doombringer_12	=	_Unlabeled S24 Affixes - Doombringer
--286410405	=	Doombringer_13	=	_Unlabeled S24 Affixes - Doombringer
--286410404	=	Doombringer_14	=	_Unlabeled S24 Affixes - Doombringer
--286410403	=	Doombringer_15	=	_Unlabeled S24 Affixes - Doombringer
--1266338382	=	Windforce_1	=	_Unlabeled S24 Affixes - Windforce
--1266338381	=	Windforce_2	=	_Unlabeled S24 Affixes - Windforce
--1266338380	=	Windforce_3	=	_Unlabeled S24 Affixes - Windforce
--1266338379	=	Windforce_4	=	_Unlabeled S24 Affixes - Windforce
--1266338378	=	Windforce_5	=	_Unlabeled S24 Affixes - Windforce
--1266338377	=	Windforce_6	=	_Unlabeled S24 Affixes - Windforce
--1266338374	=	Windforce_9	=	_Unlabeled S24 Affixes - Windforce
-1160506402	=	Windforce_10	=	_Unlabeled S24 Affixes - Windforce
-1160506403	=	Windforce_11	=	_Unlabeled S24 Affixes - Windforce
-1160506404	=	Windforce_12	=	_Unlabeled S24 Affixes - Windforce
-1160506405	=	Windforce_13	=	_Unlabeled S24 Affixes - Windforce
-1160506406	=	Windforce_14	=	_Unlabeled S24 Affixes - Windforce
--689127955	=	Buriza_01	=	_Unlabeled S24 Affixes - Buriza
--689127954	=	Buriza_02	=	_Unlabeled S24 Affixes - Buriza
--689127953	=	Buriza_03	=	_Unlabeled S24 Affixes - Buriza
--689127952	=	Buriza_04	=	_Unlabeled S24 Affixes - Buriza
--689127951	=	Buriza_05	=	_Unlabeled S24 Affixes - Buriza
--689127950	=	Buriza_06	=	_Unlabeled S24 Affixes - Buriza
--689127949	=	Buriza_07	=	_Unlabeled S24 Affixes - Buriza
--689127947	=	Buriza_09	=	_Unlabeled S24 Affixes - Buriza
--689127923	=	Buriza_10	=	_Unlabeled S24 Affixes - Buriza
--689127922	=	Buriza_11	=	_Unlabeled S24 Affixes - Buriza
--689127921	=	Buriza_12	=	_Unlabeled S24 Affixes - Buriza
--689127920	=	Buriza_13	=	_Unlabeled S24 Affixes - Buriza
--689127919	=	Buriza_14	=	_Unlabeled S24 Affixes - Buriza
--689127918	=	Buriza_15	=	_Unlabeled S24 Affixes - Buriza
-2025240163	=	Doomslinger_01	=	_Unlabeled S24 Affixes - Doomslinger
-2025240164	=	Doomslinger_02	=	_Unlabeled S24 Affixes - Doomslinger
-2025240165	=	Doomslinger_03	=	_Unlabeled S24 Affixes - Doomslinger
-2025240166	=	Doomslinger_04	=	_Unlabeled S24 Affixes - Doomslinger
-2025240167	=	Doomslinger_05	=	_Unlabeled S24 Affixes - Doomslinger
-2025240168	=	Doomslinger_06	=	_Unlabeled S24 Affixes - Doomslinger
-2025240169	=	Doomslinger_07	=	_Unlabeled S24 Affixes - Doomslinger
-2025240171	=	Doomslinger_09	=	_Unlabeled S24 Affixes - Doomslinger
-2025240195	=	Doomslinger_10	=	_Unlabeled S24 Affixes - Doomslinger
-2025240196	=	Doomslinger_11	=	_Unlabeled S24 Affixes - Doomslinger
-2025240197	=	Doomslinger_12	=	_Unlabeled S24 Affixes - Doomslinger
-2025240198	=	Doomslinger_13	=	_Unlabeled S24 Affixes - Doomslinger
-2025240199	=	Doomslinger_14	=	_Unlabeled S24 Affixes - Doomslinger
-2025240200	=	Doomslinger_15	=	_Unlabeled S24 Affixes - Doomslinger
--2083066696	=	Blackhand_01	=	_Unlabeled S24 Affixes - Blackhand
--2083066695	=	Blackhand_02	=	_Unlabeled S24 Affixes - Blackhand
--2083066694	=	Blackhand_03	=	_Unlabeled S24 Affixes - Blackhand
--2083066693	=	Blackhand_04	=	_Unlabeled S24 Affixes - Blackhand
--2083066692	=	Blackhand_05	=	_Unlabeled S24 Affixes - Blackhand
--2083066691	=	Blackhand_06	=	_Unlabeled S24 Affixes - Blackhand
--2083066690	=	Blackhand_07	=	_Unlabeled S24 Affixes - Blackhand
--2083066688	=	Blackhand_09	=	_Unlabeled S24 Affixes - Blackhand
--2083066664	=	Blackhand_10	=	_Unlabeled S24 Affixes - Blackhand
--2083066663	=	Blackhand_11	=	_Unlabeled S24 Affixes - Blackhand
--2083066662	=	Blackhand_12	=	_Unlabeled S24 Affixes - Blackhand
--2083066661	=	Blackhand_13	=	_Unlabeled S24 Affixes - Blackhand
--2083066660	=	Blackhand_14	=	_Unlabeled S24 Affixes - Blackhand
--2083066659	=	Blackhand_15	=	_Unlabeled S24 Affixes - Blackhand
--1581858569	=	Soulharvester_01	=	_Unlabeled S24 Affixes - Soul Harvester
--1581858568	=	Soulharvester_02	=	_Unlabeled S24 Affixes - Soul Harvester
--1581858567	=	Soulharvester_03	=	_Unlabeled S24 Affixes - Soul Harvester
--1581858566	=	Soulharvester_04	=	_Unlabeled S24 Affixes - Soul Harvester
--1581858565	=	Soulharvester_05	=	_Unlabeled S24 Affixes - Soul Harvester
--1581858564	=	Soulharvester_06	=	_Unlabeled S24 Affixes - Soul Harvester
--1581858563	=	Soulharvester_07	=	_Unlabeled S24 Affixes - Soul Harvester
--1581858561	=	Soulharvester_09	=	_Unlabeled S24 Affixes - Soul Harvester
--1581858537	=	Soulharvester_10	=	_Unlabeled S24 Affixes - Soul Harvester
--1581858536	=	Soulharvester_11	=	_Unlabeled S24 Affixes - Soul Harvester
--1581858535	=	Soulharvester_12	=	_Unlabeled S24 Affixes - Soul Harvester
--1581858534	=	Soulharvester_13	=	_Unlabeled S24 Affixes - Soul Harvester
--1581858533	=	Soulharvester_14	=	_Unlabeled S24 Affixes - Soul Harvester
--1581858532	=	Soulharvester_15	=	_Unlabeled S24 Affixes - Soul Harvester
-1540516085	=	Blackbog_01	=	_Unlabeled S24 Affixes - Blackbog
-1540516086	=	Blackbog_02	=	_Unlabeled S24 Affixes - Blackbog
-1540516087	=	Blackbog_03	=	_Unlabeled S24 Affixes - Blackbog
-1540516088	=	Blackbog_04	=	_Unlabeled S24 Affixes - Blackbog
-1540516089	=	Blackbog_05	=	_Unlabeled S24 Affixes - Blackbog
-1540516090	=	Blackbog_06	=	_Unlabeled S24 Affixes - Blackbog
-1540516091	=	Blackbog_07	=	_Unlabeled S24 Affixes - Blackbog
-1540516093	=	Blackbog_09	=	_Unlabeled S24 Affixes - Blackbog
-1540516117	=	Blackbog_10	=	_Unlabeled S24 Affixes - Blackbog
-1540516118	=	Blackbog_11	=	_Unlabeled S24 Affixes - Blackbog
-1540516119	=	Blackbog_12	=	_Unlabeled S24 Affixes - Blackbog
-1540516120	=	Blackbog_13	=	_Unlabeled S24 Affixes - Blackbog
-1540516121	=	Blackbog_14	=	_Unlabeled S24 Affixes - Blackbog
-1540516122	=	Blackbog_15	=	_Unlabeled S24 Affixes - Blackbog
-305862555	=	Oculus_01	=	_Unlabeled S24 Affixes - Oculus
-305862556	=	Oculus_02	=	_Unlabeled S24 Affixes - Oculus
-305862557	=	Oculus_03	=	_Unlabeled S24 Affixes - Oculus
-305862558	=	Oculus_04	=	_Unlabeled S24 Affixes - Oculus
-305862559	=	Oculus_05	=	_Unlabeled S24 Affixes - Oculus
-305862560	=	Oculus_06	=	_Unlabeled S24 Affixes - Oculus
-305862561	=	Oculus_07	=	_Unlabeled S24 Affixes - Oculus
-197518490	=	Mangsong_01	=	_Unlabeled S24 Affixes - Mangsong
-197518491	=	Mangsong_02	=	_Unlabeled S24 Affixes - Mangsong
-197518492	=	Mangsong_03	=	_Unlabeled S24 Affixes - Mangsong
-197518493	=	Mangsong_04	=	_Unlabeled S24 Affixes - Mangsong
-197518494	=	Mangsong_05	=	_Unlabeled S24 Affixes - Mangsong
-197518495	=	Mangsong_06	=	_Unlabeled S24 Affixes - Mangsong
-197518496	=	Mangsong_07	=	_Unlabeled S24 Affixes - Mangsong
-197518498	=	Mangsong_09	=	_Unlabeled S24 Affixes - Mangsong
-197518522	=	Mangsong_10	=	_Unlabeled S24 Affixes - Mangsong
-197518523	=	Mangsong_11	=	_Unlabeled S24 Affixes - Mangsong
-197518524	=	Mangsong_12	=	_Unlabeled S24 Affixes - Mangsong
-197518525	=	Mangsong_13	=	_Unlabeled S24 Affixes - Mangsong
-197518526	=	Mangsong_14	=	_Unlabeled S24 Affixes - Mangsong
-197518527	=	Mangsong_15	=	_Unlabeled S24 Affixes - Mangsong
-235257069	=	Wizardspike_01	=	_Unlabeled S24 Affixes - Wizardspike
-235257070	=	Wizardspike_02	=	_Unlabeled S24 Affixes - Wizardspike
-235257071	=	Wizardspike_03	=	_Unlabeled S24 Affixes - Wizardspike
-235257072	=	Wizardspike_04	=	_Unlabeled S24 Affixes - Wizardspike
-235257073	=	Wizardspike_05	=	_Unlabeled S24 Affixes - Wizardspike
-235257074	=	Wizardspike_06	=	_Unlabeled S24 Affixes - Wizardspike
-235257075	=	Wizardspike_07	=	_Unlabeled S24 Affixes - Wizardspike
-235257077	=	Wizardspike_09	=	_Unlabeled S24 Affixes - Wizardspike
-235257101	=	Wizardspike_10	=	_Unlabeled S24 Affixes - Wizardspike
-235257102	=	Wizardspike_11	=	_Unlabeled S24 Affixes - Wizardspike
-235257103	=	Wizardspike_12	=	_Unlabeled S24 Affixes - Wizardspike
-235257104	=	Wizardspike_13	=	_Unlabeled S24 Affixes - Wizardspike
-235257105	=	Wizardspike_14	=	_Unlabeled S24 Affixes - Wizardspike
-235257106	=	Wizardspike_15	=	_Unlabeled S24 Affixes - Wizardspike
-2065136001	=	Bartuc_01	=	_Unlabeled S24 Affixes - Bartuc
-2065136002	=	Bartuc_02	=	_Unlabeled S24 Affixes - Bartuc
-2065136003	=	Bartuc_03	=	_Unlabeled S24 Affixes - Bartuc
-2065136004	=	Bartuc_04	=	_Unlabeled S24 Affixes - Bartuc
-2065136005	=	Bartuc_05	=	_Unlabeled S24 Affixes - Bartuc
-2065136006	=	Bartuc_06	=	_Unlabeled S24 Affixes - Bartuc
-2065136007	=	Bartuc_07	=	_Unlabeled S24 Affixes - Bartuc
-2065136009	=	Bartuc_09	=	_Unlabeled S24 Affixes - Bartuc
-2065136033	=	Bartuc_10	=	_Unlabeled S24 Affixes - Bartuc
-2065136034	=	Bartuc_11	=	_Unlabeled S24 Affixes - Bartuc
-2065136035	=	Bartuc_12	=	_Unlabeled S24 Affixes - Bartuc
-2065136036	=	Bartuc_13	=	_Unlabeled S24 Affixes - Bartuc
-2065136037	=	Bartuc_14	=	_Unlabeled S24 Affixes - Bartuc
-2065136038	=	Bartuc_15	=	_Unlabeled S24 Affixes - Bartuc
-1698886153	=	Shadowkiller_01	=	_Unlabeled S24 Affixes - Shadow Killer
-1698886154	=	Shadowkiller_02	=	_Unlabeled S24 Affixes - Shadow Killer
-1698886155	=	Shadowkiller_03	=	_Unlabeled S24 Affixes - Shadow Killer
-1698886156	=	Shadowkiller_04	=	_Unlabeled S24 Affixes - Shadow Killer
-1698886157	=	Shadowkiller_05	=	_Unlabeled S24 Affixes - Shadow Killer
-1698886158	=	Shadowkiller_06	=	_Unlabeled S24 Affixes - Shadow Killer
-1698886159	=	Shadowkiller_07	=	_Unlabeled S24 Affixes - Shadow Killer
-1698886161	=	Shadowkiller_09	=	_Unlabeled S24 Affixes - Shadow Killer
-1698886185	=	Shadowkiller_10	=	_Unlabeled S24 Affixes - Shadow Killer
-1698886186	=	Shadowkiller_11	=	_Unlabeled S24 Affixes - Shadow Killer
-1698886187	=	Shadowkiller_12	=	_Unlabeled S24 Affixes - Shadow Killer
-1698886188	=	Shadowkiller_13	=	_Unlabeled S24 Affixes - Shadow Killer
-1698886189	=	Shadowkiller_14	=	_Unlabeled S24 Affixes - Shadow Killer
-1698886190	=	Shadowkiller_15	=	_Unlabeled S24 Affixes - Shadow Killer
--1832400590	=	Jadetalon_01	=	_Unlabeled S24 Affixes - Jade Talon
--1832400589	=	Jadetalon_02	=	_Unlabeled S24 Affixes - Jade Talon
--1832400588	=	Jadetalon_03	=	_Unlabeled S24 Affixes - Jade Talon
--1832400587	=	Jadetalon_04	=	_Unlabeled S24 Affixes - Jade Talon
--1832400586	=	Jadetalon_05	=	_Unlabeled S24 Affixes - Jade Talon
--1832400585	=	Jadetalon_06	=	_Unlabeled S24 Affixes - Jade Talon
--1832400584	=	Jadetalon_07	=	_Unlabeled S24 Affixes - Jade Talon
--1832400582	=	Jadetalon_09	=	_Unlabeled S24 Affixes - Jade Talon
--1832400558	=	Jadetalon_10	=	_Unlabeled S24 Affixes - Jade Talon
--1832400557	=	Jadetalon_11	=	_Unlabeled S24 Affixes - Jade Talon
--1832400556	=	Jadetalon_12	=	_Unlabeled S24 Affixes - Jade Talon
--1832400555	=	Jadetalon_13	=	_Unlabeled S24 Affixes - Jade Talon
--1832400554	=	Jadetalon_14	=	_Unlabeled S24 Affixes - Jade Talon
--1832400553	=	Jadetalon_15	=	_Unlabeled S24 Affixes - Jade Talon
-1517867740	=	Asteron_01	=	_Unlabeled S24 Affixes - Asteron
-1517867741	=	Asteron_02	=	_Unlabeled S24 Affixes - Asteron
-1517867742	=	Asteron_03	=	_Unlabeled S24 Affixes - Asteron
-1517867743	=	Asteron_04	=	_Unlabeled S24 Affixes - Asteron
-1517867744	=	Asteron_05	=	_Unlabeled S24 Affixes - Asteron
-1517867745	=	Asteron_06	=	_Unlabeled S24 Affixes - Asteron
-1517867746	=	Asteron_07	=	_Unlabeled S24 Affixes - Asteron
-1517867748	=	Asteron_09	=	_Unlabeled S24 Affixes - Asteron
-1517867772	=	Asteron_10	=	_Unlabeled S24 Affixes - Asteron
-1517867773	=	Asteron_11	=	_Unlabeled S24 Affixes - Asteron
-1517867774	=	Asteron_12	=	_Unlabeled S24 Affixes - Asteron
-1517867775	=	Asteron_13	=	_Unlabeled S24 Affixes - Asteron
-1517867776	=	Asteron_14	=	_Unlabeled S24 Affixes - Asteron
-1517867777	=	Asteron_15	=	_Unlabeled S24 Affixes - Asteron
-375990121	=	Redeemer_01	=	_Unlabeled S24 Affixes - Redeemer
-375990122	=	Redeemer_02	=	_Unlabeled S24 Affixes - Redeemer
-375990123	=	Redeemer_03	=	_Unlabeled S24 Affixes - Redeemer
-375990124	=	Redeemer_04	=	_Unlabeled S24 Affixes - Redeemer
-375990125	=	Redeemer_05	=	_Unlabeled S24 Affixes - Redeemer
-375990126	=	Redeemer_06	=	_Unlabeled S24 Affixes - Redeemer
-375990127	=	Redeemer_07	=	_Unlabeled S24 Affixes - Redeemer
-375990129	=	Redeemer_09	=	_Unlabeled S24 Affixes - Redeemer
-375990153	=	Redeemer_10	=	_Unlabeled S24 Affixes - Redeemer
-375990154	=	Redeemer_11	=	_Unlabeled S24 Affixes - Redeemer
-375990155	=	Redeemer_12	=	_Unlabeled S24 Affixes - Redeemer
-375990156	=	Redeemer_13	=	_Unlabeled S24 Affixes - Redeemer
-375990157	=	Redeemer_14	=	_Unlabeled S24 Affixes - Redeemer
-375990158	=	Redeemer_15	=	_Unlabeled S24 Affixes - Redeemer
-633292059	=	Gidbinn_01	=	_Unlabeled S24 Affixes - Gidbinn
-633292060	=	Gidbinn_02	=	_Unlabeled S24 Affixes - Gidbinn
-633292061	=	Gidbinn_03	=	_Unlabeled S24 Affixes - Gidbinn
-633292062	=	Gidbinn_04	=	_Unlabeled S24 Affixes - Gidbinn
-633292063	=	Gidbinn_05	=	_Unlabeled S24 Affixes - Gidbinn
-633292064	=	Gidbinn_06	=	_Unlabeled S24 Affixes - Gidbinn
-633292065	=	Gidbinn_07	=	_Unlabeled S24 Affixes - Gidbinn
-633292067	=	Gidbinn_09	=	_Unlabeled S24 Affixes - Gidbinn
-633292091	=	Gidbinn_10	=	_Unlabeled S24 Affixes - Gidbinn
-633292092	=	Gidbinn_11	=	_Unlabeled S24 Affixes - Gidbinn
-633292093	=	Gidbinn_12	=	_Unlabeled S24 Affixes - Gidbinn
-633292094	=	Gidbinn_13	=	_Unlabeled S24 Affixes - Gidbinn
-633292095	=	Gidbinn_14	=	_Unlabeled S24 Affixes - Gidbinn
-633292096	=	Gidbinn_15	=	_Unlabeled S24 Affixes - Gidbinn
--999423094	=	Ghostflame_01	=	_Unlabeled S24 Affixes - Ghostflame
--999423093	=	Ghostflame_02	=	_Unlabeled S24 Affixes - Ghostflame
--999423092	=	Ghostflame_03	=	_Unlabeled S24 Affixes - Ghostflame
--999423091	=	Ghostflame_04	=	_Unlabeled S24 Affixes - Ghostflame
--999423090	=	Ghostflame_05	=	_Unlabeled S24 Affixes - Ghostflame
--999423089	=	Ghostflame_06	=	_Unlabeled S24 Affixes - Ghostflame
--999423088	=	Ghostflame_07	=	_Unlabeled S24 Affixes - Ghostflame
--999423086	=	Ghostflame_09	=	_Unlabeled S24 Affixes - Ghostflame
--999423062	=	Ghostflame_10	=	_Unlabeled S24 Affixes - Ghostflame
--999423061	=	Ghostflame_11	=	_Unlabeled S24 Affixes - Ghostflame
--999423060	=	Ghostflame_12	=	_Unlabeled S24 Affixes - Ghostflame
--999423059	=	Ghostflame_13	=	_Unlabeled S24 Affixes - Ghostflame
--999423058	=	Ghostflame_14	=	_Unlabeled S24 Affixes - Ghostflame
--999423057	=	Ghostflame_15	=	_Unlabeled S24 Affixes - Ghostflame
--703804773	=	Ariocneedle_01	=	_Unlabeled S24 Affixes - Arioc Needle
--703804772	=	Ariocneedle_02	=	_Unlabeled S24 Affixes - Arioc Needle
--703804771	=	Ariocneedle_03	=	_Unlabeled S24 Affixes - Arioc Needle
--703804770	=	Ariocneedle_04	=	_Unlabeled S24 Affixes - Arioc Needle
--703804769	=	Ariocneedle_05	=	_Unlabeled S24 Affixes - Arioc Needle
--703804768	=	Ariocneedle_06	=	_Unlabeled S24 Affixes - Arioc Needle
--703804767	=	Ariocneedle_07	=	_Unlabeled S24 Affixes - Arioc Needle
--703804765	=	Ariocneedle_09	=	_Unlabeled S24 Affixes - Arioc Needle
--703804741	=	Ariocneedle_10	=	_Unlabeled S24 Affixes - Arioc Needle
--703804740	=	Ariocneedle_11	=	_Unlabeled S24 Affixes - Arioc Needle
--703804739	=	Ariocneedle_12	=	_Unlabeled S24 Affixes - Arioc Needle
--703804738	=	Ariocneedle_13	=	_Unlabeled S24 Affixes - Arioc Needle
--703804737	=	Ariocneedle_14	=	_Unlabeled S24 Affixes - Arioc Needle
--703804736	=	Ariocneedle_15	=	_Unlabeled S24 Affixes - Arioc Needle
+1732042982	=	Grandfather_01	=	z_Unlabeled S24 Affixes - Grandfather
+1732042983	=	Grandfather_02	=	z_Unlabeled S24 Affixes - Grandfather
+1732042984	=	Grandfather_03	=	z_Unlabeled S24 Affixes - Grandfather
+1732042985	=	Grandfather_04	=	z_Unlabeled S24 Affixes - Grandfather
+1732042986	=	Grandfather_05	=	z_Unlabeled S24 Affixes - Grandfather
+1732042987	=	Grandfather_06	=	z_Unlabeled S24 Affixes - Grandfather
+1732042988	=	Grandfather_07	=	z_Unlabeled S24 Affixes - Grandfather
+1732042990	=	Grandfather_09	=	z_Unlabeled S24 Affixes - Grandfather
+1732043014	=	Grandfather_10	=	z_Unlabeled S24 Affixes - Grandfather
+1732043015	=	Grandfather_11	=	z_Unlabeled S24 Affixes - Grandfather
+1732043016	=	Grandfather_12	=	z_Unlabeled S24 Affixes - Grandfather
+1732043017	=	Grandfather_13	=	z_Unlabeled S24 Affixes - Grandfather
+1732043018	=	Grandfather_14	=	z_Unlabeled S24 Affixes - Grandfather
+1732043019	=	Grandfather_15	=	z_Unlabeled S24 Affixes - Grandfather
+847429161	=	Grimmershred_01	=	z_Unlabeled S24 Affixes - Grimmershred
+847429162	=	Grimmershred_02	=	z_Unlabeled S24 Affixes - Grimmershred
+847429163	=	Grimmershred_03	=	z_Unlabeled S24 Affixes - Grimmershred
+847429164	=	Grimmershred_04	=	z_Unlabeled S24 Affixes - Grimmershred
+847429165	=	Grimmershred_05	=	z_Unlabeled S24 Affixes - Grimmershred
+847429166	=	Grimmershred_06	=	z_Unlabeled S24 Affixes - Grimmershred
+847429167	=	Grimmershred_07	=	z_Unlabeled S24 Affixes - Grimmershred
+847429169	=	Grimmershred_09	=	z_Unlabeled S24 Affixes - Grimmershred
+847429193	=	Grimmershred_10	=	z_Unlabeled S24 Affixes - Grimmershred
+847429194	=	Grimmershred_11	=	z_Unlabeled S24 Affixes - Grimmershred
+847429195	=	Grimmershred_12	=	z_Unlabeled S24 Affixes - Grimmershred
+847429196	=	Grimmershred_13	=	z_Unlabeled S24 Affixes - Grimmershred
+847429197	=	Grimmershred_14	=	z_Unlabeled S24 Affixes - Grimmershred
+847429198	=	Grimmershred_15	=	z_Unlabeled S24 Affixes - Grimmershred
+-286410440	=	Doombringer_01	=	z_Unlabeled S24 Affixes - Doombringer
+-286410439	=	Doombringer_02	=	z_Unlabeled S24 Affixes - Doombringer
+-286410438	=	Doombringer_03	=	z_Unlabeled S24 Affixes - Doombringer
+-286410437	=	Doombringer_04	=	z_Unlabeled S24 Affixes - Doombringer
+-286410436	=	Doombringer_05	=	z_Unlabeled S24 Affixes - Doombringer
+-286410435	=	Doombringer_06	=	z_Unlabeled S24 Affixes - Doombringer
+-286410434	=	Doombringer_07	=	z_Unlabeled S24 Affixes - Doombringer
+-286410432	=	Doombringer_09	=	z_Unlabeled S24 Affixes - Doombringer
+-286410408	=	Doombringer_10	=	z_Unlabeled S24 Affixes - Doombringer
+-286410407	=	Doombringer_11	=	z_Unlabeled S24 Affixes - Doombringer
+-286410406	=	Doombringer_12	=	z_Unlabeled S24 Affixes - Doombringer
+-286410405	=	Doombringer_13	=	z_Unlabeled S24 Affixes - Doombringer
+-286410404	=	Doombringer_14	=	z_Unlabeled S24 Affixes - Doombringer
+-286410403	=	Doombringer_15	=	z_Unlabeled S24 Affixes - Doombringer
+-1266338382	=	Windforce_1	=	z_Unlabeled S24 Affixes - Windforce
+-1266338381	=	Windforce_2	=	z_Unlabeled S24 Affixes - Windforce
+-1266338380	=	Windforce_3	=	z_Unlabeled S24 Affixes - Windforce
+-1266338379	=	Windforce_4	=	z_Unlabeled S24 Affixes - Windforce
+-1266338378	=	Windforce_5	=	z_Unlabeled S24 Affixes - Windforce
+-1266338377	=	Windforce_6	=	z_Unlabeled S24 Affixes - Windforce
+-1266338374	=	Windforce_9	=	z_Unlabeled S24 Affixes - Windforce
+1160506402	=	Windforce_10	=	z_Unlabeled S24 Affixes - Windforce
+1160506403	=	Windforce_11	=	z_Unlabeled S24 Affixes - Windforce
+1160506404	=	Windforce_12	=	z_Unlabeled S24 Affixes - Windforce
+1160506405	=	Windforce_13	=	z_Unlabeled S24 Affixes - Windforce
+1160506406	=	Windforce_14	=	z_Unlabeled S24 Affixes - Windforce
+-689127955	=	Buriza_01	=	z_Unlabeled S24 Affixes - Buriza
+-689127954	=	Buriza_02	=	z_Unlabeled S24 Affixes - Buriza
+-689127953	=	Buriza_03	=	z_Unlabeled S24 Affixes - Buriza
+-689127952	=	Buriza_04	=	z_Unlabeled S24 Affixes - Buriza
+-689127951	=	Buriza_05	=	z_Unlabeled S24 Affixes - Buriza
+-689127950	=	Buriza_06	=	z_Unlabeled S24 Affixes - Buriza
+-689127949	=	Buriza_07	=	z_Unlabeled S24 Affixes - Buriza
+-689127947	=	Buriza_09	=	z_Unlabeled S24 Affixes - Buriza
+-689127923	=	Buriza_10	=	z_Unlabeled S24 Affixes - Buriza
+-689127922	=	Buriza_11	=	z_Unlabeled S24 Affixes - Buriza
+-689127921	=	Buriza_12	=	z_Unlabeled S24 Affixes - Buriza
+-689127920	=	Buriza_13	=	z_Unlabeled S24 Affixes - Buriza
+-689127919	=	Buriza_14	=	z_Unlabeled S24 Affixes - Buriza
+-689127918	=	Buriza_15	=	z_Unlabeled S24 Affixes - Buriza
+2025240163	=	Doomslinger_01	=	z_Unlabeled S24 Affixes - Doomslinger
+2025240164	=	Doomslinger_02	=	z_Unlabeled S24 Affixes - Doomslinger
+2025240165	=	Doomslinger_03	=	z_Unlabeled S24 Affixes - Doomslinger
+2025240166	=	Doomslinger_04	=	z_Unlabeled S24 Affixes - Doomslinger
+2025240167	=	Doomslinger_05	=	z_Unlabeled S24 Affixes - Doomslinger
+2025240168	=	Doomslinger_06	=	z_Unlabeled S24 Affixes - Doomslinger
+2025240169	=	Doomslinger_07	=	z_Unlabeled S24 Affixes - Doomslinger
+2025240171	=	Doomslinger_09	=	z_Unlabeled S24 Affixes - Doomslinger
+2025240195	=	Doomslinger_10	=	z_Unlabeled S24 Affixes - Doomslinger
+2025240196	=	Doomslinger_11	=	z_Unlabeled S24 Affixes - Doomslinger
+2025240197	=	Doomslinger_12	=	z_Unlabeled S24 Affixes - Doomslinger
+2025240198	=	Doomslinger_13	=	z_Unlabeled S24 Affixes - Doomslinger
+2025240199	=	Doomslinger_14	=	z_Unlabeled S24 Affixes - Doomslinger
+2025240200	=	Doomslinger_15	=	z_Unlabeled S24 Affixes - Doomslinger
+-2083066696	=	Blackhand_01	=	z_Unlabeled S24 Affixes - Blackhand
+-2083066695	=	Blackhand_02	=	z_Unlabeled S24 Affixes - Blackhand
+-2083066694	=	Blackhand_03	=	z_Unlabeled S24 Affixes - Blackhand
+-2083066693	=	Blackhand_04	=	z_Unlabeled S24 Affixes - Blackhand
+-2083066692	=	Blackhand_05	=	z_Unlabeled S24 Affixes - Blackhand
+-2083066691	=	Blackhand_06	=	z_Unlabeled S24 Affixes - Blackhand
+-2083066690	=	Blackhand_07	=	z_Unlabeled S24 Affixes - Blackhand
+-2083066688	=	Blackhand_09	=	z_Unlabeled S24 Affixes - Blackhand
+-2083066664	=	Blackhand_10	=	z_Unlabeled S24 Affixes - Blackhand
+-2083066663	=	Blackhand_11	=	z_Unlabeled S24 Affixes - Blackhand
+-2083066662	=	Blackhand_12	=	z_Unlabeled S24 Affixes - Blackhand
+-2083066661	=	Blackhand_13	=	z_Unlabeled S24 Affixes - Blackhand
+-2083066660	=	Blackhand_14	=	z_Unlabeled S24 Affixes - Blackhand
+-2083066659	=	Blackhand_15	=	z_Unlabeled S24 Affixes - Blackhand
+-1581858569	=	Soulharvester_01	=	z_Unlabeled S24 Affixes - Soul Harvester
+-1581858568	=	Soulharvester_02	=	z_Unlabeled S24 Affixes - Soul Harvester
+-1581858567	=	Soulharvester_03	=	z_Unlabeled S24 Affixes - Soul Harvester
+-1581858566	=	Soulharvester_04	=	z_Unlabeled S24 Affixes - Soul Harvester
+-1581858565	=	Soulharvester_05	=	z_Unlabeled S24 Affixes - Soul Harvester
+-1581858564	=	Soulharvester_06	=	z_Unlabeled S24 Affixes - Soul Harvester
+-1581858563	=	Soulharvester_07	=	z_Unlabeled S24 Affixes - Soul Harvester
+-1581858561	=	Soulharvester_09	=	z_Unlabeled S24 Affixes - Soul Harvester
+-1581858537	=	Soulharvester_10	=	z_Unlabeled S24 Affixes - Soul Harvester
+-1581858536	=	Soulharvester_11	=	z_Unlabeled S24 Affixes - Soul Harvester
+-1581858535	=	Soulharvester_12	=	z_Unlabeled S24 Affixes - Soul Harvester
+-1581858534	=	Soulharvester_13	=	z_Unlabeled S24 Affixes - Soul Harvester
+-1581858533	=	Soulharvester_14	=	z_Unlabeled S24 Affixes - Soul Harvester
+-1581858532	=	Soulharvester_15	=	z_Unlabeled S24 Affixes - Soul Harvester
+1540516085	=	Blackbog_01	=	z_Unlabeled S24 Affixes - Blackbog
+1540516086	=	Blackbog_02	=	z_Unlabeled S24 Affixes - Blackbog
+1540516087	=	Blackbog_03	=	z_Unlabeled S24 Affixes - Blackbog
+1540516088	=	Blackbog_04	=	z_Unlabeled S24 Affixes - Blackbog
+1540516089	=	Blackbog_05	=	z_Unlabeled S24 Affixes - Blackbog
+1540516090	=	Blackbog_06	=	z_Unlabeled S24 Affixes - Blackbog
+1540516091	=	Blackbog_07	=	z_Unlabeled S24 Affixes - Blackbog
+1540516093	=	Blackbog_09	=	z_Unlabeled S24 Affixes - Blackbog
+1540516117	=	Blackbog_10	=	z_Unlabeled S24 Affixes - Blackbog
+1540516118	=	Blackbog_11	=	z_Unlabeled S24 Affixes - Blackbog
+1540516119	=	Blackbog_12	=	z_Unlabeled S24 Affixes - Blackbog
+1540516120	=	Blackbog_13	=	z_Unlabeled S24 Affixes - Blackbog
+1540516121	=	Blackbog_14	=	z_Unlabeled S24 Affixes - Blackbog
+1540516122	=	Blackbog_15	=	z_Unlabeled S24 Affixes - Blackbog
+305862555	=	Oculus_01	=	z_Unlabeled S24 Affixes - Oculus
+305862556	=	Oculus_02	=	z_Unlabeled S24 Affixes - Oculus
+305862557	=	Oculus_03	=	z_Unlabeled S24 Affixes - Oculus
+305862558	=	Oculus_04	=	z_Unlabeled S24 Affixes - Oculus
+305862559	=	Oculus_05	=	z_Unlabeled S24 Affixes - Oculus
+305862560	=	Oculus_06	=	z_Unlabeled S24 Affixes - Oculus
+305862561	=	Oculus_07	=	z_Unlabeled S24 Affixes - Oculus
+197518490	=	Mangsong_01	=	z_Unlabeled S24 Affixes - Mangsong
+197518491	=	Mangsong_02	=	z_Unlabeled S24 Affixes - Mangsong
+197518492	=	Mangsong_03	=	z_Unlabeled S24 Affixes - Mangsong
+197518493	=	Mangsong_04	=	z_Unlabeled S24 Affixes - Mangsong
+197518494	=	Mangsong_05	=	z_Unlabeled S24 Affixes - Mangsong
+197518495	=	Mangsong_06	=	z_Unlabeled S24 Affixes - Mangsong
+197518496	=	Mangsong_07	=	z_Unlabeled S24 Affixes - Mangsong
+197518498	=	Mangsong_09	=	z_Unlabeled S24 Affixes - Mangsong
+197518522	=	Mangsong_10	=	z_Unlabeled S24 Affixes - Mangsong
+197518523	=	Mangsong_11	=	z_Unlabeled S24 Affixes - Mangsong
+197518524	=	Mangsong_12	=	z_Unlabeled S24 Affixes - Mangsong
+197518525	=	Mangsong_13	=	z_Unlabeled S24 Affixes - Mangsong
+197518526	=	Mangsong_14	=	z_Unlabeled S24 Affixes - Mangsong
+197518527	=	Mangsong_15	=	z_Unlabeled S24 Affixes - Mangsong
+235257069	=	Wizardspike_01	=	z_Unlabeled S24 Affixes - Wizardspike
+235257070	=	Wizardspike_02	=	z_Unlabeled S24 Affixes - Wizardspike
+235257071	=	Wizardspike_03	=	z_Unlabeled S24 Affixes - Wizardspike
+235257072	=	Wizardspike_04	=	z_Unlabeled S24 Affixes - Wizardspike
+235257073	=	Wizardspike_05	=	z_Unlabeled S24 Affixes - Wizardspike
+235257074	=	Wizardspike_06	=	z_Unlabeled S24 Affixes - Wizardspike
+235257075	=	Wizardspike_07	=	z_Unlabeled S24 Affixes - Wizardspike
+235257077	=	Wizardspike_09	=	z_Unlabeled S24 Affixes - Wizardspike
+235257101	=	Wizardspike_10	=	z_Unlabeled S24 Affixes - Wizardspike
+235257102	=	Wizardspike_11	=	z_Unlabeled S24 Affixes - Wizardspike
+235257103	=	Wizardspike_12	=	z_Unlabeled S24 Affixes - Wizardspike
+235257104	=	Wizardspike_13	=	z_Unlabeled S24 Affixes - Wizardspike
+235257105	=	Wizardspike_14	=	z_Unlabeled S24 Affixes - Wizardspike
+235257106	=	Wizardspike_15	=	z_Unlabeled S24 Affixes - Wizardspike
+2065136001	=	Bartuc_01	=	z_Unlabeled S24 Affixes - Bartuc
+2065136002	=	Bartuc_02	=	z_Unlabeled S24 Affixes - Bartuc
+2065136003	=	Bartuc_03	=	z_Unlabeled S24 Affixes - Bartuc
+2065136004	=	Bartuc_04	=	z_Unlabeled S24 Affixes - Bartuc
+2065136005	=	Bartuc_05	=	z_Unlabeled S24 Affixes - Bartuc
+2065136006	=	Bartuc_06	=	z_Unlabeled S24 Affixes - Bartuc
+2065136007	=	Bartuc_07	=	z_Unlabeled S24 Affixes - Bartuc
+2065136009	=	Bartuc_09	=	z_Unlabeled S24 Affixes - Bartuc
+2065136033	=	Bartuc_10	=	z_Unlabeled S24 Affixes - Bartuc
+2065136034	=	Bartuc_11	=	z_Unlabeled S24 Affixes - Bartuc
+2065136035	=	Bartuc_12	=	z_Unlabeled S24 Affixes - Bartuc
+2065136036	=	Bartuc_13	=	z_Unlabeled S24 Affixes - Bartuc
+2065136037	=	Bartuc_14	=	z_Unlabeled S24 Affixes - Bartuc
+2065136038	=	Bartuc_15	=	z_Unlabeled S24 Affixes - Bartuc
+1698886153	=	Shadowkiller_01	=	z_Unlabeled S24 Affixes - Shadow Killer
+1698886154	=	Shadowkiller_02	=	z_Unlabeled S24 Affixes - Shadow Killer
+1698886155	=	Shadowkiller_03	=	z_Unlabeled S24 Affixes - Shadow Killer
+1698886156	=	Shadowkiller_04	=	z_Unlabeled S24 Affixes - Shadow Killer
+1698886157	=	Shadowkiller_05	=	z_Unlabeled S24 Affixes - Shadow Killer
+1698886158	=	Shadowkiller_06	=	z_Unlabeled S24 Affixes - Shadow Killer
+1698886159	=	Shadowkiller_07	=	z_Unlabeled S24 Affixes - Shadow Killer
+1698886161	=	Shadowkiller_09	=	z_Unlabeled S24 Affixes - Shadow Killer
+1698886185	=	Shadowkiller_10	=	z_Unlabeled S24 Affixes - Shadow Killer
+1698886186	=	Shadowkiller_11	=	z_Unlabeled S24 Affixes - Shadow Killer
+1698886187	=	Shadowkiller_12	=	z_Unlabeled S24 Affixes - Shadow Killer
+1698886188	=	Shadowkiller_13	=	z_Unlabeled S24 Affixes - Shadow Killer
+1698886189	=	Shadowkiller_14	=	z_Unlabeled S24 Affixes - Shadow Killer
+1698886190	=	Shadowkiller_15	=	z_Unlabeled S24 Affixes - Shadow Killer
+-1832400590	=	Jadetalon_01	=	z_Unlabeled S24 Affixes - Jade Talon
+-1832400589	=	Jadetalon_02	=	z_Unlabeled S24 Affixes - Jade Talon
+-1832400588	=	Jadetalon_03	=	z_Unlabeled S24 Affixes - Jade Talon
+-1832400587	=	Jadetalon_04	=	z_Unlabeled S24 Affixes - Jade Talon
+-1832400586	=	Jadetalon_05	=	z_Unlabeled S24 Affixes - Jade Talon
+-1832400585	=	Jadetalon_06	=	z_Unlabeled S24 Affixes - Jade Talon
+-1832400584	=	Jadetalon_07	=	z_Unlabeled S24 Affixes - Jade Talon
+-1832400582	=	Jadetalon_09	=	z_Unlabeled S24 Affixes - Jade Talon
+-1832400558	=	Jadetalon_10	=	z_Unlabeled S24 Affixes - Jade Talon
+-1832400557	=	Jadetalon_11	=	z_Unlabeled S24 Affixes - Jade Talon
+-1832400556	=	Jadetalon_12	=	z_Unlabeled S24 Affixes - Jade Talon
+-1832400555	=	Jadetalon_13	=	z_Unlabeled S24 Affixes - Jade Talon
+-1832400554	=	Jadetalon_14	=	z_Unlabeled S24 Affixes - Jade Talon
+-1832400553	=	Jadetalon_15	=	z_Unlabeled S24 Affixes - Jade Talon
+1517867740	=	Asteron_01	=	z_Unlabeled S24 Affixes - Asteron
+1517867741	=	Asteron_02	=	z_Unlabeled S24 Affixes - Asteron
+1517867742	=	Asteron_03	=	z_Unlabeled S24 Affixes - Asteron
+1517867743	=	Asteron_04	=	z_Unlabeled S24 Affixes - Asteron
+1517867744	=	Asteron_05	=	z_Unlabeled S24 Affixes - Asteron
+1517867745	=	Asteron_06	=	z_Unlabeled S24 Affixes - Asteron
+1517867746	=	Asteron_07	=	z_Unlabeled S24 Affixes - Asteron
+1517867748	=	Asteron_09	=	z_Unlabeled S24 Affixes - Asteron
+1517867772	=	Asteron_10	=	z_Unlabeled S24 Affixes - Asteron
+1517867773	=	Asteron_11	=	z_Unlabeled S24 Affixes - Asteron
+1517867774	=	Asteron_12	=	z_Unlabeled S24 Affixes - Asteron
+1517867775	=	Asteron_13	=	z_Unlabeled S24 Affixes - Asteron
+1517867776	=	Asteron_14	=	z_Unlabeled S24 Affixes - Asteron
+1517867777	=	Asteron_15	=	z_Unlabeled S24 Affixes - Asteron
+375990121	=	Redeemer_01	=	z_Unlabeled S24 Affixes - Redeemer
+375990122	=	Redeemer_02	=	z_Unlabeled S24 Affixes - Redeemer
+375990123	=	Redeemer_03	=	z_Unlabeled S24 Affixes - Redeemer
+375990124	=	Redeemer_04	=	z_Unlabeled S24 Affixes - Redeemer
+375990125	=	Redeemer_05	=	z_Unlabeled S24 Affixes - Redeemer
+375990126	=	Redeemer_06	=	z_Unlabeled S24 Affixes - Redeemer
+375990127	=	Redeemer_07	=	z_Unlabeled S24 Affixes - Redeemer
+375990129	=	Redeemer_09	=	z_Unlabeled S24 Affixes - Redeemer
+375990153	=	Redeemer_10	=	z_Unlabeled S24 Affixes - Redeemer
+375990154	=	Redeemer_11	=	z_Unlabeled S24 Affixes - Redeemer
+375990155	=	Redeemer_12	=	z_Unlabeled S24 Affixes - Redeemer
+375990156	=	Redeemer_13	=	z_Unlabeled S24 Affixes - Redeemer
+375990157	=	Redeemer_14	=	z_Unlabeled S24 Affixes - Redeemer
+375990158	=	Redeemer_15	=	z_Unlabeled S24 Affixes - Redeemer
+633292059	=	Gidbinn_01	=	z_Unlabeled S24 Affixes - Gidbinn
+633292060	=	Gidbinn_02	=	z_Unlabeled S24 Affixes - Gidbinn
+633292061	=	Gidbinn_03	=	z_Unlabeled S24 Affixes - Gidbinn
+633292062	=	Gidbinn_04	=	z_Unlabeled S24 Affixes - Gidbinn
+633292063	=	Gidbinn_05	=	z_Unlabeled S24 Affixes - Gidbinn
+633292064	=	Gidbinn_06	=	z_Unlabeled S24 Affixes - Gidbinn
+633292065	=	Gidbinn_07	=	z_Unlabeled S24 Affixes - Gidbinn
+633292067	=	Gidbinn_09	=	z_Unlabeled S24 Affixes - Gidbinn
+633292091	=	Gidbinn_10	=	z_Unlabeled S24 Affixes - Gidbinn
+633292092	=	Gidbinn_11	=	z_Unlabeled S24 Affixes - Gidbinn
+633292093	=	Gidbinn_12	=	z_Unlabeled S24 Affixes - Gidbinn
+633292094	=	Gidbinn_13	=	z_Unlabeled S24 Affixes - Gidbinn
+633292095	=	Gidbinn_14	=	z_Unlabeled S24 Affixes - Gidbinn
+633292096	=	Gidbinn_15	=	z_Unlabeled S24 Affixes - Gidbinn
+-999423094	=	Ghostflame_01	=	z_Unlabeled S24 Affixes - Ghostflame
+-999423093	=	Ghostflame_02	=	z_Unlabeled S24 Affixes - Ghostflame
+-999423092	=	Ghostflame_03	=	z_Unlabeled S24 Affixes - Ghostflame
+-999423091	=	Ghostflame_04	=	z_Unlabeled S24 Affixes - Ghostflame
+-999423090	=	Ghostflame_05	=	z_Unlabeled S24 Affixes - Ghostflame
+-999423089	=	Ghostflame_06	=	z_Unlabeled S24 Affixes - Ghostflame
+-999423088	=	Ghostflame_07	=	z_Unlabeled S24 Affixes - Ghostflame
+-999423086	=	Ghostflame_09	=	z_Unlabeled S24 Affixes - Ghostflame
+-999423062	=	Ghostflame_10	=	z_Unlabeled S24 Affixes - Ghostflame
+-999423061	=	Ghostflame_11	=	z_Unlabeled S24 Affixes - Ghostflame
+-999423060	=	Ghostflame_12	=	z_Unlabeled S24 Affixes - Ghostflame
+-999423059	=	Ghostflame_13	=	z_Unlabeled S24 Affixes - Ghostflame
+-999423058	=	Ghostflame_14	=	z_Unlabeled S24 Affixes - Ghostflame
+-999423057	=	Ghostflame_15	=	z_Unlabeled S24 Affixes - Ghostflame
+-703804773	=	Ariocneedle_01	=	z_Unlabeled S24 Affixes - Arioc Needle
+-703804772	=	Ariocneedle_02	=	z_Unlabeled S24 Affixes - Arioc Needle
+-703804771	=	Ariocneedle_03	=	z_Unlabeled S24 Affixes - Arioc Needle
+-703804770	=	Ariocneedle_04	=	z_Unlabeled S24 Affixes - Arioc Needle
+-703804769	=	Ariocneedle_05	=	z_Unlabeled S24 Affixes - Arioc Needle
+-703804768	=	Ariocneedle_06	=	z_Unlabeled S24 Affixes - Arioc Needle
+-703804767	=	Ariocneedle_07	=	z_Unlabeled S24 Affixes - Arioc Needle
+-703804765	=	Ariocneedle_09	=	z_Unlabeled S24 Affixes - Arioc Needle
+-703804741	=	Ariocneedle_10	=	z_Unlabeled S24 Affixes - Arioc Needle
+-703804740	=	Ariocneedle_11	=	z_Unlabeled S24 Affixes - Arioc Needle
+-703804739	=	Ariocneedle_12	=	z_Unlabeled S24 Affixes - Arioc Needle
+-703804738	=	Ariocneedle_13	=	z_Unlabeled S24 Affixes - Arioc Needle
+-703804737	=	Ariocneedle_14	=	z_Unlabeled S24 Affixes - Arioc Needle
+-703804736	=	Ariocneedle_15	=	z_Unlabeled S24 Affixes - Arioc Needle
 -1413373636	=	Crits grant 4 Arcane Power	=	_Patch 2.7.1 Affixes
 -1544599628	=	+5.1% Chance to Chill on Hit	=	_Patch 2.7.1 Affixes
 -1598227767	=	+750 Dexterity	=	_Patch 2.7.1 Affixes
@@ -2112,3 +2112,51 @@
 2122832275	=	Spite  -  Non-cleaving Gargantuans gain the cleave and chilling effects of the Humongoid rune	=	_Ethereal Power Affixes -  Witch Doctor
 -450461008	=	12-14 Mana per Second (Witch Doctor Only)	=	X-X Mana per Second (Witch Doctor Only)
 1184986309	=	120-150 Maximum Mana (Witch Doctor Only)	=	X-X Maximum Mana (Witch Doctor Only)
+1266065656	=	T1 Helm: +23-25% Life, +23-25% Gold Find, 12.5-15% CDR, 12.5-15% RCR (Amethyst, Emerald, Diamond, Topaz)	=	_2.7.2 Soul Shard Affixes
+1266065657	=	Tier 1 Helm Shard: +40-50% Bonus Experience (Ruby)	=	_2.7.2 Soul Shard Affixes
+-363229879	=	T1 Weapon: +130-150% Crit Damage, 28-30k Life PH, 38-40k Thorns, +20-25% to Elites (Emerald, Amethyst, Topaz, Diamond)	=	_2.7.2 Soul Shard Affixes
+-363229878	=	Tier 1 Weapon Shard: +270-300 Damage (Ruby)	=	_2.7.2 Soul Shard Affixes
+-265290222	=	Tier 2 Shard: +1125 Strength	=	_2.7.2 Soul Shard Affixes
+-265307046	=	Tier 2 Shard: +1125 Dexterity	=	_2.7.2 Soul Shard Affixes
+-265287316	=	Tier 2 Shard: +1125 Vitality	=	_2.7.2 Soul Shard Affixes
+-265301308	=	Tier 2 Shard: +1125 Intelligence	=	_2.7.2 Soul Shard Affixes
+1259866573	=	Tier 2 Shard: +10.0% Critical Hit Chance	=	_2.7.2 Soul Shard Affixes
+483055160	=	Tier 2 Shard: +15% Damage	=	_2.7.2 Soul Shard Affixes
+1360915866	=	Tier 2 Shard: -20% Damage from Melee attacks	=	_2.7.2 Soul Shard Affixes
+-2143409245	=	Tier 2 Shard: -20% Damage from Ranged attacks	=	_2.7.2 Soul Shard Affixes
+239838821	=	Tier 2 Shard: +25% Arcane skill damage	=	_2.7.2 Soul Shard Affixes
+1690898044	=	Tier 2 Shard: +25% Lightning skill damage	=	_2.7.2 Soul Shard Affixes
+207326110	=	Tier 2 Shard: +25% Fire skill damage	=	_2.7.2 Soul Shard Affixes
+-459193286	=	Tier 2 Shard: +25% Cold skill damage	=	_2.7.2 Soul Shard Affixes
+1230837172	=	Tier 2 Shard: +25% Holy skill damage	=	_2.7.2 Soul Shard Affixes
+1962853813	=	Tier 2 Shard: +25% Physical skill damage	=	_2.7.2 Soul Shard Affixes
+-803735280	=	Tier 2 Shard: +25% Poison skill damage	=	_2.7.2 Soul Shard Affixes
+2045992460	=	Tier 2 Shard: +62 Resist All	=	_2.7.2 Soul Shard Affixes
+-1159663046	=	Tier 2 Shard: +650 Armor	=	_2.7.2 Soul Shard Affixes
+741432866	=	Tier 2 Shard: +15% Attack Speed	=	_2.7.2 Soul Shard Affixes
+1014157398	=	T3 Terror 1: You cast a devastating Ring of Fire after killing 100 enemies	=	_2.7.2 Soul Shard Affixes
+1014157399	=	T3 Terror 2: Your Attack Speed and Critical Hit Chance are increased by 5% for each skill on cooldown	=	_2.7.2 Soul Shard Affixes
+1014157400	=	T3 Terror 3: If three or more skills are on cooldown, your Lightning and Fire skill damage are increased by 50%	=	_2.7.2 Soul Shard Affixes
+473332212	=	T3 Hatred 1: You now deal 10% for every enemy instead of 5% (to a maximum of 100%)	=	_2.7.2 Soul Shard Affixes
+473332213	=	T3 Hatred 2: Killing an elite enemy pulls all enemies within 40 yards to where the elite died	=	_2.7.2 Soul Shard Affixes
+473332214	=	T3 Hatred 3: Movement Speed is increased by 50%. Each enemy within 25 yards reduces your MS by 10% up to 70%	=	_2.7.2 Soul Shard Affixes
+132366683	=	T3 Destruction 1: You have a 25% chance to restore 5% health when an enemy dies with Mark of Destruction active	=	_2.7.2 Soul Shard Affixes
+132366684	=	T3 Destruction 2: When you apply Mark of Destruction to an enemy, you increase your Movement Speed by 5% for 7 seconds. Max 10 Stacks	=	_2.7.2 Soul Shard Affixes
+132366685	=	T3 Destruction 3: You now leave a trail of fire in your wake that slays enemies with the Mark of Destruction that are below 10% health	=	_2.7.2 Soul Shard Affixes
+1066005717	=	T3 Sin 1: The pool of blood now negates Elite affixes within its area	=	_2.7.2 Soul Shard Affixes
+1066005718	=	T3 Sin 2: You gain an additional Rift Progress Orb when you kill an elite pack	=	_2.7.2 Soul Shard Affixes
+1066005719	=	T3 Sin 3: The pool of blood now collects Rift Progress Orbs	=	_2.7.2 Soul Shard Affixes
+1228920043	=	T3 Anguish 1: Your Movement Speed and Cooldown Reduction can be increased up to 15 times by dealing Poison damage to an enemy	=	_2.7.2 Soul Shard Affixes
+1228920044	=	T3 Anguish 2: When you deal Poison damage to an enemy, they receive 50% increased Poison damage from all sources for 10 seconds	=	_2.7.2 Soul Shard Affixes
+1228920045	=	T3 Anguish 3: When you kill an enemy, you deal the damage done by the death blow to all enemies within 25 yards. Pets and Followers cannot trigger this effect	=	_2.7.2 Soul Shard Affixes
+-1712035500	=	T3 Lies 1: Each time your pet hits an enemy, your damage is increased by 1% for 5 seconds. This stacks up to 100 times. When you reach 100 stacks, the stacks quickly reset to 0	=	_2.7.2 Soul Shard Affixes
+-1712035499	=	T3 Lies 2: On receiving fatal damage, spawn a shadow that prevents your death, restores your health to 35%, and grants +225 All Resist to all party members while it is active. The shadow only lasts 15 seconds	=	_2.7.2 Soul Shard Affixes
+-1712035498	=	T3 Lies 3: Killing an elite enemy reduces all your active cooldowns by 5 seconds	=	_2.7.2 Soul Shard Affixes
+1504186608	=	T3 Pain 1: Hitting enemies with Cold damage has a 50% chance to Freeze them. Cold skill damage is increased to Frozen targets by 20%	=	_2.7.2 Soul Shard Affixes
+1504186609	=	T3 Pain 2: Gain Passability while your Movement Speed bonus is over 50%. When you move through enemies, you knock them back and Stun them for 2 seconds	=	_2.7.2 Soul Shard Affixes
+1504186610	=	T3 Pain 3: When you critically hit an enemy, you increase the Attack Speed of all players by 5% for 5 seconds. Max 10 stacks	=	_2.7.2 Soul Shard Affixes
+1342563223	=	Sockets (2) #3	=	Sockets (X)
+2003672643	=	Sockets (1) #2	=	Sockets (X)
+1355466716	=	Sockets (3) #3	=	Sockets (X)
+-870369443	=	Sockets (2) #4	=	Sockets (X)
+1342579987	=	Sockets (3) #4	=	Sockets (X)
