@@ -5,7 +5,7 @@
 
 # Diablo III (ROS) - Seasonal PS4 Modding
 
-This guide aims to provide concise, accurate instructions to use publicly available homebrew and PC tools to bring edited saves into season 24 and beyond on PS4.
+This guide aims to provide concise, accurate instructions to use publicly available homebrew and PC tools to bring edited saves into season 25 and beyond on PS4.
 
 Weeks after I first jumped on the leaderboards with fully modified gear and ethereal weapons (Aug 11th 2021), a group of people cropped up claiming to have been doing this for years; allegedly sneaking "legit" gear and stat mods into seasons after Save Wizard removed Advanced Mode support for the game... pretending that they were protecting the integrity of seasonal play.
 
@@ -14,9 +14,11 @@ Weeks after I first jumped on the leaderboards with fully modified gear and ethe
 In this guide I will show you step-by-step what I did and which tools and information I used.
 
 ### Contact Me
-* **Discord:** ***jester#0001***
-* **PSN:** ***jesterSellsSaves***
-* **Email:** [jester.psn@xbl.ninja](mailto:jester.psn@xbl.ninja)
+
+* **Discord Server:**   **http://jester.dev**
+* **My Discord:**   **jester#0001**
+* **PSN:**   **jesterSellsSaves**
+* **Email:**   [diablo@jester.dev](mailto:diablo@jester.dev)
   
 ### Special Thanks
 * Thank you to **EckoTc** for sharing your experience and resources with me a few days after I picked up the game and pieced everything together. Cheers for reaching out and collaborating with me and the many other modders you've helped!
@@ -38,7 +40,7 @@ Listed and credited in his guide are all significant current and past contributo
   * [Al-Azif](https://cthugha.exploit.menu/): The most well-known host that has accompanying DNS servers to auto-redirect your browser. Extremely comprehensive and even includes Switch and WiiU exploits!
 
 ## Required Software
-- [x] [D3 Studio - A save editor for Diablo 3 RoS/Eternal](https://github.com/Tonic-Box/D3Studio/releases/latest) by Tonic-Box
+- [x] [D3StudioFork - A save editor for Diablo 3 RoS/Eternal](https://github.com/god-jester/D3StudioFork/releases/latest) by me
 - [x] [PS4 Save Mounter](https://github.com/ctn123/Binary-Releases/releases/latest) by ChendoChap, updated by Joonie86 and ctn123
 - [x] PC FTP client: I love both [FileZilla](https://filezilla-project.org/download.php?show_all=1) and [WinSCP](https://winscp.net/eng/download.php)
 - [x] Both of the following payloads running on **Console B**:
@@ -62,29 +64,22 @@ Listed and credited in his guide are all significant current and past contributo
 6. Congrats, you now have a decrypted copy of your save, ready to open and modify with D3 Studio!
 
 ## Convert your character to Seasonal
-1. [Download D3 Studio v3.5](https://github.com/Tonic-Box/D3Studio/releases/tag/v3.5) and extract to a folder, we will name ours `D3S`
+1. [Download D3StudioFork](https://github.com/god-jester/D3StudioFork/releases/) and extract to a folder, we will name ours `D3S`
 2. [Download the newest Affix_List.txt and GBID_List.txt](https://github.com/god-jester/D3ROS-Modding-Seasons/tree/main/D3Studio%20Lists) from my github and replace the existing files inside `D3S` folder
 3. Launch `D3Studio - v3.5.exe`, press open save, and navigate to your `PS4Save` folder. Select `account.dat` and press Open. This can take an extremely long time to load with larger saves and more characters
-4. Press the `Account` tab, press the `Raw` tab, expand `console_data` and change `version_required` to **271**, expand `digest` and change `season_id` to **24**
+4. Press the `Account` tab, press the `Raw` tab, expand `console_data` and change `version_required` to **271**, expand `digest` and change `season_id` to **25**
       <details>
       <summary><sub>Screenshot: Account > Raw</sub></summary>
         <img src="https://user-images.githubusercontent.com/90997402/134083334-cb60c1dd-04c0-4a19-96c7-9f5d5da7f552.png">
       </details>
       
-5. Press the `Heroes` tab, press the tab with your character name, press the `Raw` tab, expand `digest` and set `season_created` to **24**
+5. Press the `Heroes` tab, press the tab with your character name, press the `Raw` tab, expand `digest` and set `season_created` to **25**
       <details>
       <summary><sub>Screenshot: Heroes > jester's Wiz > Raw</sub></summary>
       <img src="https://user-images.githubusercontent.com/90997402/134083370-4d13d12a-d1de-42d4-8558-7ff03e6b0084.png">
       </details>
       
-6. While still in your character tab, go to `General` and press the dropdown for `Sex/HeroCore`, choose 1 of the 4 "(Seasonal)" options**
-      <details>
-      <summary><sub>Screenshot: Heroes > jester's Wiz > General</sub></summary>
-      <img src="https://user-images.githubusercontent.com/90997402/134083356-75063f32-0f8e-4baf-be5e-0ab1dcca930a.png">
-      </details>
-      <sub>**NOTE: If you created a normal, offline female character, the editor may already default to "[2] Normal Female (Seasonal)" - this is fine, ignore it and proceed</sub>
-      
-7. Press `Save All` in the top left. Congrats! You have just converted a brand new offline character from RoS Disc v1.00 to a Season 24 online hero!
+6. Press `Save All` in the top left. Congrats! You have just converted a brand new offline character from RoS Disc v1.00 to a Season 25 online hero!
       
 **DISCLAIMER: There are random tutorials in the wild suggesting you need to change many more values in the save. This is not true, the above is all that is required!**
 
