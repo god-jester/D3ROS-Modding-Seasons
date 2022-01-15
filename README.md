@@ -1,104 +1,74 @@
-[//]: # (Fuck you D-R-A-S-T-I-C: liar, drama queen, exhaustingly verbose, condescending, elitist piece of shit)
-[//]: # (Fuck you TnuC_INC: jealous, angry, petty, drug addict. and you're slow af)
-[//]: # (Fuck you VXDeviLsSonXV: thief, liar, leech, clout chaser, borderline talentless, drug addicted divorcee)
-[//]: # (All of you nerds have been sweating over this shit for "7+ years." I did it better and faster, and you will not regain the #1 spots)
-
 # Diablo III (ROS) - Seasonal PS4 Modding
 
-This guide aims to provide concise, accurate instructions to use publicly available homebrew and PC tools to bring edited saves into season 25 and beyond on PS4.
-
-Weeks after I first jumped on the leaderboards with fully modified gear and ethereal weapons (Aug 11th 2021), a group of people cropped up claiming to have been doing this for years; allegedly sneaking "legit" gear and stat mods into seasons after Save Wizard removed Advanced Mode support for the game... pretending that they were protecting the integrity of seasonal play.
-
-***This is called "closet cheating"*** - skipping the work of grinding the season while pretending you worked for it - and it's something I am firmly against. Go big or go home!
+This guide aims to provide concise, accurate instructions to use publicly available homebrew and PC tools to bring edited saves into Season 25 and beyond on PS4 and PS5. I put this all together and abused my first leaderboard on August 11, 2021
 
 In this guide I will show you step-by-step what I did and which tools and information I used.
 
 ### Contact Me
 
-* **Discord Server:**   **http://jester.dev**
+* **Discord Server:**   **https://jester.dev**
 * **My Discord:**   **jester#0001**
 * **PSN:**   **jesterSellsSaves**
 * **Email:**   [diablo@jester.dev](mailto:diablo@jester.dev)
   
-### Special Thanks
-* Thank you to **EckoTc** for sharing your experience and resources with me a few days after I picked up the game and pieced everything together. Cheers for reaching out and collaborating with me and the many other modders you've helped!
-* Thank you to **goobycorp aka Visual Studio** for creating D3Edit, STL/GAM parsing tools, CPK extraction, and much more. You've been the homie for many years and I will always appreciate the knowledge you share 
-* Thank you to **Tonic-Box** for compiling the most complete set of resources and guides that I stumbled upon when first looking into this stuff
-  * I religiously read his excellent [D3ROS Modding Guide](https://github.com/Tonic-Box/D3ROS-Modding-Guide), and I suggest you do the same. Specifically his [full list of editor tricks](https://github.com/Tonic-Box/D3ROS-Modding-Guide/tree/main/EditorTricks) without any fluff
-
-Listed and credited in his guide are all significant current and past contributors to the D3 modding community, so I will not repeat them all here. Visit his guide and read it over thoroughly, especially if you are not already familiar with save editing and the related concepts.
-
 ## Required Hardware
-- [x] Working PC (Windows) to run the required tools
+- [x] Working Windows PC to run the required tools
+- [x] USB drive for copying saves between consoles, with an existing Season 25 save copied to it
 - [x] "**Console A**" - unmodified PS4/PS5 fully updated and able to play Diablo 3 online
-- [x] Disc copy of Diablo 3 for PS4. This is for **Console B**, you may use a digital copy for **Console A** if you wish
-- [x] USB drive (ideally exFAT formatted) for copying saves between your PC, **Console A**, and **Console B**
-- [x] "**Console B**" - modifiable PS4 console ready to launch payloads
-* The most convenient way to launch payloads on **Console B** is to visit public exploit hosts through the PS4 web browser on a vulnerable firmware: 
-  * [hippie68](https://hippie68.github.io/): The cleanest and most professional public host (in my opinion). Supports multiple payloads at once
-  * [Night King](https://night-king-host.github.io/): Very comprehensive and very frequently updated. Has the ctn123-updated PS4Debug (not necessary, but very good)
-  * [Al-Azif](https://cthugha.exploit.menu/): The most well-known host that has accompanying DNS servers to auto-redirect your browser. Extremely comprehensive and even includes Switch and WiiU exploits!
+- [x] "**Console B**" - modifiable PS4 console on FW 9.00
 
 ## Required Software
-- [x] [D3StudioFork - A save editor for Diablo 3 RoS/Eternal](https://github.com/god-jester/D3StudioFork/releases/latest) by me
-- [x] [PS4 Save Mounter](https://github.com/ctn123/Binary-Releases/releases/latest) by ChendoChap, updated by Joonie86 and ctn123
-- [x] PC FTP client: I love both [FileZilla](https://filezilla-project.org/download.php?show_all=1) and [WinSCP](https://winscp.net/eng/download.php)
+- [x] [D3StudioFork - A Diablo 3 Save Editor](https://github.com/god-jester/D3StudioFork/releases/latest) by me
+- [x] [PS4OfflineAccountActivator 9.00](https://github.com/charlyzard/PS4OfflineAccountActivator) by barthen, updated by charlyzard
+- [x] [PS4 Save Mounter v1.9.3](https://github.com/ctn123/Binary-Releases/releases/latest) by ChendoChap, updated by ctn123
+- [x] PC FTP client: [FileZilla](https://filezilla-project.org/download.php?show_all=1)
 - [x] Both of the following payloads running on **Console B**:
-  * Persistent FTP: I use and love **GoldHEN v1.1 by [SiSTR0](https://github.com/SiSTR0/SiSTR0)**, but other persistent FTP servers will work fine
-  * **PS4Debug** by jogolden, updated by GiantPluto and Joonie86: I prefer the recently updated **v1.5.4.4 by ctn**, but any working version will be fine
+  - **GoldHEN v2.0b2+** by [SiSTR0](https://github.com/SiSTR0/SiSTR0)
+  - **PS4Debug** by jogolden, updated by ctn123, built into his PS4 Save Mounter
+- The most convenient way to launch GoldHEN is to visit http://ithaqua.exploit.menu, use the DNS servers `165.227.83.145` and `192.241.221.79` on your console to get there easier
 
-## Decrypt your Diablo 3 save to use with D3 Studio
-### If you DON'T already have a Diablo save on **Console B**:
-1. Insert Diablo 3 disc into **Console B** and launch the game
-2. Create a character and complete the first area to open Tristram gates, which will grant enough EXP to hit level 2
-3. Pause and quit game, back out to title screen, and close application
-4. You now have a valid save and hero file, proceed to the following section
+## Import your encrypted Diablo 3 save to Console B
+1. On **Console B**, launch GoldHEN, navigate to Home Screen Settings -> ★GoldHEN★ -> Enable BinLoader Server, and it will give a notification in the top left of your LAN IP
+2. Launch PS4 Save Mounter, input **Console B** LAN IP and click Send Payload
+3. Launch PS4OfflineAccountActivator, input **Console B** LAN IP and click Connect, click Get Users
+    * NOTE: Your dashboard might freeze and restart the UI, wait for it to restart and click Connect then Get Users again
+4. Paste the PSN ID of your account into the box of zeroes next to a newly created offline account
+    * NOTE: Your PSN ID is the name of the folder on your USB drive under PS4->SAVEDATA
+5. Click Set ID & Activate, reboot your console, sign into newly activated account
+6. Copy your existing Diablo 3 save from your USB to System Storage
 
-### If you DO have an existing Diablo save on **Console B**:
-1. On your PC, create a folder for your decrypted save, we will name ours `PS4Save`
-2. Launch PS4 Save Mounter, input **Console B** LAN IP, press Connect, press Patch, press Get Users, press Get Games, select Diablo from dropdown (probably `CUSA00242` for USA RoS disc), press Search, press Mount
-3. Open FTP client on your PC, connect to **Console B** LAN IP and port (the GoldHEN default FTP port is `2121`), navigate to `/mnt/pfs/savedata_xxxxxxxx_CUSAxxxx_autosave`
-4. Download to your `PS4Save` folder the following items: `heroes` folder, `account.dat`, `profile.dat`, and `prefs.dat`
-      * **NOTE: If it exists, ignore the `sce_sys` folder completely, do not modify/delete/replace it!**
-5. Press Unmount in PS4 Save Mounter
-6. Congrats, you now have a decrypted copy of your save, ready to open and modify with D3 Studio!
+## Decrypt your Diablo 3 save to use with [D3StudioFork](https://github.com/god-jester/D3StudioFork/releases/latest)
+1. Sign into your newly activated account on **Console B**, then launch GoldHEN again and enable both the BinLoader and FTP servers
+2. On your PC, create a folder for your decrypted save, we will name ours `PS4Save`
+3. Launch PS4 Save Mounter, input **Console B** LAN IP, click Send Payload, click Connect, click Patch, click Get Users, click Get Games, select Diablo 3 from dropdown (probably `CUSA00242` for US RoS disc), click Search, click Mount
+4. Open FTP client on your PC, connect to **Console B** LAN IP and port (the GoldHEN default FTP port is `2121`), navigate to `/mnt/pfs/` and there should be a `savedata_xxxxxxxx_CUSAxxxx_autosave` folder, open it
+5. Download to your `PS4Save` folder the following items: `heroes` folder, `account.dat`, `profile.dat`, and `prefs.dat`
+    * **NOTE: If it exists, ignore the `sce_sys` folder completely, do not modify/delete/replace it!**
+6. Click Unmount in PS4 Save Mounter
 
-## Convert your character to Seasonal
-1. [Download D3StudioFork](https://github.com/god-jester/D3StudioFork/releases/) and extract to a folder, we will name ours `D3S`
-2. [Download the newest Affix_List.txt and GBID_List.txt](https://github.com/god-jester/D3ROS-Modding-Seasons/tree/main/D3Studio%20Lists) from my github and replace the existing files inside `D3S` folder
-3. Launch `D3Studio - v3.5.exe`, press open save, and navigate to your `PS4Save` folder. Select `account.dat` and press Open. This can take an extremely long time to load with larger saves and more characters
-4. Press the `Account` tab, press the `Raw` tab, expand `console_data` and change `version_required` to **271**, expand `digest` and change `season_id` to **25**
-      <details>
-      <summary><sub>Screenshot: Account > Raw</sub></summary>
-        <img src="https://user-images.githubusercontent.com/90997402/134083334-cb60c1dd-04c0-4a19-96c7-9f5d5da7f552.png">
-      </details>
-      
-5. Press the `Heroes` tab, press the tab with your character name, press the `Raw` tab, expand `digest` and set `season_created` to **25**
-      <details>
-      <summary><sub>Screenshot: Heroes > jester's Wiz > Raw</sub></summary>
-      <img src="https://user-images.githubusercontent.com/90997402/134083370-4d13d12a-d1de-42d4-8558-7ff03e6b0084.png">
-      </details>
-      
-6. Press `Save All` in the top left. Congrats! You have just converted a brand new offline character from RoS Disc v1.00 to a Season 25 online hero!
-      
-**DISCLAIMER: There are random tutorials in the wild suggesting you need to change many more values in the save. This is not true, the above is all that is required!**
-
-
+## Open your Diablo 3 save with D3StudioFork
+1. [Download D3StudioFork](https://github.com/god-jester/D3StudioFork/releases/latest) and extract to a folder, we will name ours `D3S`
+2. Launch `D3StudioFork v3.x.exe`, click open save, and navigate to your `PS4Save` folder. Select `account.dat` and click Open. This can take an extremely long time to load with larger saves and more characters
+    * NOTE: D3StudioFork was developed for Seasonal modding and game update v2.7.2, so you shouldn't need to make any changes besides checking the "Seasonal" box on the Hero tab if you need to convert a hero, and all lists are fully up to date
+3. Make changes to your save, then click File -> Save All
 
 ## Inject and export your modified PS4 save
-1. Make sure you have an existing Diablo save in your PS4 System Storage. If not, read the section: ***"If you DON'T already have a Diablo save on Console B"***
-2. Launch PS4 Save Mounter, input **Console B** LAN IP, press Connect, press Patch, press Get Users, press Get Games, select Diablo from dropdown (probably `CUSA00242` for USA RoS disc), press Search, press Mount
-3. Open FTP client on your PC, connect to **Console B** LAN IP and port (the GoldHEN default FTP port is `2121`), navigate to `/mnt/pfs/savedata_xxxxxxxx_CUSAxxxx_autosave`
-4. Upload from your `PS4Save` folder the following items: `heroes` folder, `account.dat`, `profile.dat`, and `prefs.dat`
-      * **NOTE: If it exists, ignore the `sce_sys` folder completely, do not modify/delete/replace it!**
-5. Press Unmount in PS4 Save Mounter
-9. Plug USB drive into **Console B**, and copy your modded Diablo save from **System Storage** to **USB Storage Device**
+1. Launch PS4 Save Mounter, input **Console B** LAN IP, click Send Payload, click Connect, click Patch, click Get Users, click Get Games, select Diablo 3 from dropdown (probably `CUSA00242` for US RoS disc), click Search, click Mount
+2. Open FTP client on your PC, connect to **Console B** LAN IP and port (the GoldHEN default FTP port is `2121`), navigate to `/mnt/pfs/` and there should be a `savedata_xxxxxxxx_CUSAxxxx_autosave` folder, open it
+3. Upload from your `PS4Save` folder the following items: `heroes` folder, `account.dat`, `profile.dat`, and `prefs.dat`
+    * **NOTE: If it exists, ignore the `sce_sys` folder completely, do not modify/delete/replace it!**
+4. Click Unmount in PS4 Save Mounter
+5. Plug USB drive into **Console B**, and copy your edited Diablo save from **System Storage** to **USB Storage Device**
+6. Your save can now be copied back to your unmodified console to play online
+
+
+### Happy Modding!
 
 <hr>
 
-### And that's it! These are the steps I used in early August when I did all of this myself for the first time.
-### Happy Modding!
-
-[//]: # (account_raw https://user-images.githubusercontent.com/90997402/134083334-cb60c1dd-04c0-4a19-96c7-9f5d5da7f552.png)
-[//]: # (heroes_general https://user-images.githubusercontent.com/90997402/134083356-75063f32-0f8e-4baf-be5e-0ab1dcca930a.png)
-[//]: # (heroes_raw https://user-images.githubusercontent.com/90997402/134083370-4d13d12a-d1de-42d4-8558-7ff03e6b0084.png)
+## Special Thanks
+* Thank you to **EckoTc** for sharing your experience and resources with me a few days after I picked up the game and pieced everything together. Cheers for reaching out and collaborating with me and the many other modders you've helped!
+* Thank you to **GoobyCorp aka Visual Studio** for creating D3Edit, STL/GAM parsing tools, protobuf extraction, and much more. You've been the homie for many years and I will always appreciate your knowledge
+* Thank you to **Tonic-Box** for compiling the most complete set of resources and guides that I stumbled upon when first looking into this stuff
+  * I religiously read his excellent [D3ROS Modding Guide](https://github.com/Tonic-Box/D3ROS-Modding-Guide), and I suggest you do the same. Specifically his [full list of editor tricks](https://github.com/Tonic-Box/D3ROS-Modding-Guide/tree/main/EditorTricks) without any fluff
+  * Listed and credited in his guide are all significant current and past contributors to the D3 modding community, so I will not repeat them all here. Visit his guide and read it over thoroughly.
