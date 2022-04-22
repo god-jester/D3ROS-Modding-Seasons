@@ -1,6 +1,6 @@
 # Diablo III (ROS) - Seasonal PS4 Modding
 
-This guide aims to provide concise, accurate instructions to use publicly available homebrew and PC tools to bring edited saves into Season 25 and beyond on PS4 and PS5. I put this all together and abused my first leaderboard on August 11, 2021
+This guide aims to provide concise, accurate instructions to use publicly available homebrew and PC tools to bring edited saves into Season 26 and beyond on PS4 and PS5. I put this all together and abused my first leaderboard on August 11, 2021
 
 In this guide I will show you step-by-step what I did and which tools and information I used.
 
@@ -13,7 +13,7 @@ In this guide I will show you step-by-step what I did and which tools and inform
   
 ## Required Hardware
 - [x] Working Windows PC to run the required tools
-- [x] USB drive for copying saves between consoles, with an existing Season 25 save copied to it
+- [x] USB drive for copying saves between consoles, with an existing Seasonal save copied to it
 - [x] "**Console A**" - unmodified PS4/PS5 fully updated and able to play Diablo 3 online
 - [x] "**Console B**" - modifiable PS4 console on FW 9.00
 
