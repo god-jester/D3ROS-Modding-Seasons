@@ -1,6 +1,6 @@
 # Diablo III (ROS) - Seasonal PS4 Modding
 
-This guide aims to provide concise, accurate instructions to use publicly available homebrew and PC tools to bring edited saves into Season 26 and beyond on PS4 and PS5. I put this all together and abused my first leaderboard on August 11, 2021
+This guide aims to provide concise, accurate instructions to use publicly available homebrew and PC tools to bring edited saves into Season 24 and beyond on PS4 and PS5. I put this all together and abused my first Seasonal leaderboard spot on August 11, 2021 😉
 
 In this guide I will show you step-by-step what I did and which tools and information I used.
 
@@ -8,7 +8,7 @@ In this guide I will show you step-by-step what I did and which tools and inform
 
 * **Discord Server:**   **https://jester.dev**
 * **My Discord:**   **jester#0001**
-* **PSN:**   **jesterSellsSaves**
+* **PSN:**   **www_jester_dev**
 * **Email:**   [diablo@jester.dev](mailto:diablo@jester.dev)
   
 ## Required Hardware
@@ -20,10 +20,10 @@ In this guide I will show you step-by-step what I did and which tools and inform
 ## Required Software
 - [x] [D3StudioFork - A Diablo 3 Save Editor](https://github.com/god-jester/D3StudioFork/releases/latest) by me
 - [x] [PS4OfflineAccountActivator 9.00](https://github.com/charlyzard/PS4OfflineAccountActivator) by barthen, updated by charlyzard
-- [x] [PS4 Save Mounter v1.9.3](https://github.com/ctn123/Binary-Releases/releases/latest) by ChendoChap, updated by ctn123
+- [x] [PS4 Save Mounter v1.9.3](https://github.com/ctn123/Binary-Releases/releases/latest) by [ChendoChap](https://github.com/ChendoChap), updated by ctn123
 - [x] PC FTP client: [FileZilla](https://filezilla-project.org/download.php?show_all=1)
 - [x] Both of the following payloads running on **Console B**:
-  - **GoldHEN v2.0b2+** by [SiSTR0](https://github.com/SiSTR0/SiSTR0)
+  - [**GoldHEN v2.2.2+**](https://github.com/GoldHEN/GoldHEN/releases/latest) by [SiSTR0](https://github.com/SiSTR0/SiSTR0)
   - **PS4Debug** by jogolden, updated by ctn123, built into his PS4 Save Mounter
 - The most convenient way to launch GoldHEN is to visit http://ithaqua.exploit.menu, use the DNS servers `165.227.83.145` and `192.241.221.79` on your console to get there easier
 
@@ -48,8 +48,8 @@ In this guide I will show you step-by-step what I did and which tools and inform
 
 ## Open your Diablo 3 save with D3StudioFork
 1. [Download D3StudioFork](https://github.com/god-jester/D3StudioFork/releases/latest) and extract to a folder, we will name ours `D3S`
-2. Launch `D3StudioFork v3.x.exe`, click open save, and navigate to your `PS4Save` folder. Select `account.dat` and click Open. This can take an extremely long time to load with larger saves and more characters
-    * NOTE: D3StudioFork was developed for Seasonal modding and game update v2.7.2, so you shouldn't need to make any changes besides checking the "Seasonal" box on the Hero tab if you need to convert a hero, and all lists are fully up to date
+2. Launch `D3StudioFork v*.exe`, click open save, and navigate to your `PS4Save` folder. Select `account.dat` and click Open. This can take an extremely long time to load with larger saves and more characters
+    * NOTE: D3StudioFork was developed for Seasonal modding, on the latest game update, so you shouldn't need to make any changes besides checking the "Season ##" box on the Hero tab if you need to convert a hero, and all lists are fully up to date
 3. Make changes to your save, then click File -> Save All
 
 ## Inject and export your modified PS4 save
